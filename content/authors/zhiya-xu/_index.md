@@ -22,24 +22,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Informatics
+  - Labour Geographies
+  - Geodata Science
+  - Housing and Rental Market
 
 education:
   courses:
-    - course: PhD in Urban planning
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geospatial Data Science 
+      institution: University of Glasgow
+      year: 
+    - course: MSc in Geoinformation Technology and Cartography
+      institution: University of Glasgow
+      year: 
+    - course: BSc Environment and Sustainability
+      institution: University of British Columbia   
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:2651058X@student.gla.ac.uk'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +65,4 @@ user_groups:
   - Current Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD candidate in Geospatial Data Science at the University of Glasgow. My research investigates how housing and employment patterns interact to shape the spatial structure, efficiency, and equity of cities. Drawing on spatial economics, urban geography, and computational methods, I examine how urban systems operate and evolve in response to digital transformation and socioeconomic change. I work with large-scale datasets—from rental listings to job advertisements—using geospatial analysis, machine learning, and text data to examine spatial inequalities, economic clustering, and the role of language and technology in urban processes. Broadly, my work aims to generate data-driven insights that support more just, efficient, and adaptive approaches to urban planning and regional development.
