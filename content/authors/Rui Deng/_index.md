@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Xinyi Yuan
+title: Rui Deng
 
 # Full name (for SEO)
-first_name: Xinyi
-last_name: Yuan
+first_name: Rui
+last_name: Deng
 
 # Username (this should match the folder name)
 authors:
-  - Xinyi Yuan
+  - Rui Deng
 
 # Is this the primary user of the site?
 superuser: false
