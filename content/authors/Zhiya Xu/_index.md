@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Mingshu Wang
+title: Zhiya Xu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhiya
+last_name: Xu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Zhiya Xu
 
 # Is this the primary user of the site?
 superuser: false
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Urban planning
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
@@ -70,7 +70,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
   - Visitors
 ---
 
