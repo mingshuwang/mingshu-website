@@ -22,24 +22,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Studies
+  - Urban Regeneration
+  - Public Participation
+  - Health Promotion
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Science
+      institution: University of Amsterdam
+      year: 
+    - course: MSc in Landscape Architecture
+      institution: South China University of Technology
+      year: 
+    - course: BSc in Agriculture (Landscape Architecture)
+      institution: Nanjing Forestry University
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +49,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:y.li@uva.nl'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +66,6 @@ user_groups:
   - Current Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I began my PhD studies in 2022 at the Amsterdam Institute for Social Science Research, University of Amsterdam. Prior to this, I earned a Master’s degree in Landscape Architecture from South China University of Technology and a Bachelor’s degree in Agriculture (Landscape Architecture) from Nanjing Forestry University. I also have two years of experience as an assistant designer in an architecture firm, working on commercial street design, resort design, and cultural tourism planning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current research focuses on exploring neighborhood users’ agency and autonomy in navigating the built environment, neighborhood networks, and public discussions. Mixed methods are adopted, including participant observation, interviews, questionnaires, big data, and more.
