@@ -8,7 +8,7 @@ last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - Yue Li1
+  - Yue Li
 
 # Is this the primary user of the site?
 superuser: false
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Urban planning
+    - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
