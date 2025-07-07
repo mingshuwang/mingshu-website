@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Amsterdam
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

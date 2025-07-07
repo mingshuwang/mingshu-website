@@ -14,32 +14,32 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Glasgow
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Modern deep learning models for geospatial tabular data and vector data
+  - GeoAI
+  - Explainable AI
 
 education:
   courses:
     - course: PhD in Geospatial Data Science
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Glasgow
+      year: 
+    - course: MSc in Cartography and GIS
+      institution: Aerospace Information Research Institute, Chinese Academy of Sciences
+      year: 2023
+    - course: BSc in Space Science and Technology
+      institution: Shandong University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +48,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:2911670D@student.gla.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=detEvc0AAAAJ&hl
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +71,4 @@ user_groups:
   - Current Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained my master's degree in Cartography and Geographic Information System from the University of Chinese Academy of Sciences and bachelor's degree in Space Science and Technology from Shandong University, China. My research experience includes remote sensing image processing and GeoAI for urban functional area understanding. My current work focuses on developing efficient and explainable models for processing geospatial data.
