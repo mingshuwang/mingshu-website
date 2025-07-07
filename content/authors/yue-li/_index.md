@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Rui Deng
+title: Yue Li
 
 # Full name (for SEO)
-first_name: Rui
-last_name: Deng
+first_name: Yue
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - Rui Deng
+  - yue-li
 
 # Is this the primary user of the site?
 superuser: false
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Geospatial Data Science
+    - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Researcher
+  - Current Students
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
