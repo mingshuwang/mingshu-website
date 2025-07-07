@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
@@ -48,16 +48,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:y.li.17@research.gla.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=XPlOpawAAAAJ&hl
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +68,6 @@ user_groups:
   - Current Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yue Li is currently a Ph.D. candidate in Urban Studies at the University of Glasgow, based at the Urban Big Data Centre (UBDC) within the School of Social and Political Sciences. She began her doctoral research in 2021, focusing on urban mobility, spatial data science, and time-series analysis. Prior to joining the University of Glasgow, she obtained an M.Sc. in Spatio-Temporal Analytics and Big Data Mining from University College London in 2019 and a B.Sc. in Environmental Science from Beijing Normal University in 2018.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yue's research focuses on applying machine learning, deep learning, and large language models to analyse and forecast traffic flow distributions under both normal and disruptive conditions. She integrates a range of emerging urban big data sources, including built environment features, socio-economic indicators, and Google Street View imagery. As part of her work, Yue has also developed a long-term, high-resolution traffic flow dataset at an intra-city scale, capturing fine-grained spatio-temporal dynamics.

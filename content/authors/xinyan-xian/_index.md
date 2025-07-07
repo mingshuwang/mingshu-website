@@ -65,6 +65,6 @@ user_groups:
   - Current Students
 ---
 
-I joined the University of Glasgow in the autumn of 2023 as a PhD student in Geospatial Data Science. Prior to this, I earned a Master degree in Applied Geographic Information Systems from the National University of Singapore and a Bachelor degree in Geographic Information Science from Beijing Forestry University. My research experience includes work in the fields of urban built environments, walkability assessment, and urban vitality.
+I joined the University of Glasgow in the autumn of 2023 as a PhD student in Geospatial Data Science. Prior to this, I earned a Master's degree in GIS from the National University of Singapore and a Bachelor's degree in GIS from Beijing Forestry University. My research experience includes work in the fields of urban built environments, walkability assessment, and urban vitality.
 
-My current research focuses on the application of Geographic Information Systems (GIS) and urban big data in spatial optimisation. I am dedicated to exploring the intersection of GIS technology and urban dynamics, aiming to contribute valuable insights to the field of geospatial data science.
+My current research focuses on the application of Geographic Information Systems (GIS) and urban big data in spatial optimization. I am dedicated to exploring the intersection of GIS technology and urban dynamics, aiming to contribute valuable insights to the field of geospatial data science.

@@ -71,4 +71,4 @@ user_groups:
   - Current Students
 ---
 
-I obtained my master degree in Cartography and Geographic Information System from the University of Chinese Academy of Sciences and bachelor degree in Space Science and Technology from Shandong University, China. My research experience includes remote sensing image processing and GeoAI for urban functional area understanding. My current work focuses on developing efficient and explainable models for processing geospatial data.
+I obtained my master's degree in Cartography and Geographic Information System from the University of Chinese Academy of Sciences and bachelor's degree in Space Science and Technology from Shandong University, China. My research experience includes remote sensing image processing and GeoAI for urban functional area understanding. My current work focuses on developing efficient and explainable models for processing geospatial data.
