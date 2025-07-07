@@ -4,7 +4,7 @@ title: Yue Li
 
 # Full name (for SEO)
 first_name: Yue
-last_name: Li
+last_name: Li1
 
 # Username (this should match the folder name)
 authors:
