@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yue Li1
+title: Yue Li
 
 # Full name (for SEO)
 first_name: Yue
