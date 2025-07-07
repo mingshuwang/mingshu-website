@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban analytics
+  - Explainable Artificial Intelligence (XAI)
+  - GeoAI
 
 education:
   courses:
-    - course: PhD in Urban planning
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geospatial Data Science
+      institution: University of Glasgow
+      year: 
+    - course: Master in Urban Planning
+      institution: Southeast University
+      year: 
+    - course: Bachelor in Urban and Rural Planning
+      institution: Chongqing University
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +48,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:x.yuan.1@research.gla.ac.uk'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +65,4 @@ user_groups:
   - Current Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in Geospatial Data Science within the team at the University of Glasgow, having joined in Fall 2022. Prior to this, I earned my MEng in Urban Planning from Southeast University (China) and my BEng in Urban Planning from Chongqing University (China). My current research focuses on the application of Explainable Artificial Intelligence (XAI) in cities and society. I’m also interested in development and application of spatial analysis tools. My research focuses on the application of Explainable AI (XAI) in urban and social studies. My current studies leverages building footprint data and Explainable AI to investigates how and to what extent neighbourhood-scale urban morphology influences residential energy consumption across England.

@@ -36,10 +36,10 @@ education:
       year: 
     - course: MSc in Cartography and GIS
       institution: Aerospace Information Research Institute, Chinese Academy of Sciences
-      year: 2023
+      year: 
     - course: BSc in Space Science and Technology
       institution: Shandong University
-      year: 2020
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
