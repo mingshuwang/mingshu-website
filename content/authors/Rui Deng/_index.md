@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Urban planning
+    - course: PhD in Geospatial Data Science
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
