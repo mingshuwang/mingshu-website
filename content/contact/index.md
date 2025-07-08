@@ -1,3 +1,5 @@
+
+
 ---
 title: Contact
 date: 2022-10-24
@@ -5,65 +7,76 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
-      title: Contact
+      title: Opportunities for Prospective PhD Students
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        I am always interested in hearing from prospective students who are eager to pursue a PhD under my supervision. Currently, I plan to take several new PhD students in the current academic year. Before reaching out, please ensure you have explored potential funding options or scholarships if needed. For further details, please visit [here](https://www.gla.ac.uk/postgraduate/research/geospatialdatascience/).
+
+        To facilitate our discussion, please email me the following:
+
+        - Your CV
+        - Your academic transcripts
+        - A brief research proposal (2-3 pages) outlining your proposed doctoral project. The project should align with my previous or current research areas to ensure I can offer the appropriate support and mentorship throughout your studies.
     design:
       columns: '1'
 
-  - block: markdown
+  - block: contact
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Contact Information
+      subtitle: Get in touch with our research team
+      text: |-
+        We welcome collaborations, inquiries about our research, and discussions about potential opportunities.
+
+      # Contact details - edit or remove options as needed
+      email: mingshu.wang@glasgow.ac.uk
+      # phone: +44 (0)141 330 xxxx
+      address:
+        street: School of Geographical & Earth Sciences
+        city: Glasgow
+        region: Scotland
+        postcode: 'G12 8QQ'
+        country: United Kingdom
+        country_code: UK
+      coordinates:
+        latitude: '55.871566'
+        longitude: '-4.287377'
+      # office_hours:
+      #   - 'Monday-Friday 09:00 to 17:00'
+      # appointment_url: 'https://calendly.com'
+
+      # Automatically link email and phone or display as text?
+      autolink: true
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
+  # - block: markdown
+  #   content:
+  #     title: Location
+  #     subtitle: Find us on campus
+  #     text: |-
+  #       Our research group is located in the School of Geographical & Earth Sciences at the University of Glasgow. 
+        
+  #       **Address:**  
+  #       School of Geographical & Earth Sciences  
+  #       University of Glasgow  
+  #       Glasgow G12 8QQ  
+  #       United Kingdom
+        
+  #       **Public Transport:**  
+  #       - Subway: Hillhead Station (5-minute walk)
+  #       - Bus: Multiple routes serve University Avenue
+  #       - Train: Partick Station (15-minute walk)
+        
+  #       **Parking:**  
+  #       Visitor parking is available on campus. Please check the University of Glasgow website for current parking regulations and fees.
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       color: '#f8f9fa'
 ---
+<style>
+img.leaflet-marker-icon[src$="marker-icon-2x.png"]{
+  background:#0000!important;
+}
+</style>
