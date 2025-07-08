@@ -18,7 +18,7 @@ role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Nanjiing
+  - name: Nanjing University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
