@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Xinyan Xian
+title: Xinyi Yuan
 
 # Full name (for SEO)
-first_name: Xinyan
-last_name: Xian
+first_name: Xinyi
+last_name: Yuan
 
 # Username (this should match the folder name)
 authors:
-  - xinyan-xian
+  - Xinyi Yuan
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,20 +25,20 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Geographical Information Science
-  - Urban Analytics
-  - Spatial Optimization
+  - Urban analytics
+  - Explainable Artificial Intelligence (XAI)
+  - GeoAI
 
 education:
   courses:
     - course: PhD in Geospatial Data Science
       institution: University of Glasgow
       year: 
-    - course: MSc in GIS
-      institution: National University of Singapore
+    - course: Master in Urban Planning
+      institution: Southeast University
       year: 
-    - course: BSc in GIS
-      institution: Beijing Forestry University
+    - course: Bachelor in Urban and Rural Planning
+      institution: Chongqing University
       year: 
 
 # Social/Academic Networking
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:x.xian.1@research.gla.ac.uk'
+    link: 'mailto:x.yuan.1@research.gla.ac.uk'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,6 +65,4 @@ user_groups:
   - Current Students
 ---
 
-I joined the University of Glasgow in the autumn of 2023 as a PhD student in Geospatial Data Science. Prior to this, I earned a Master's degree in GIS from the National University of Singapore and a Bachelor's degree in GIS from Beijing Forestry University. My research experience includes work in the fields of urban built environments, walkability assessment, and urban vitality.
-
-My current research focuses on the application of Geographic Information Systems (GIS) and urban big data in spatial optimization. I am dedicated to exploring the intersection of GIS technology and urban dynamics, aiming to contribute valuable insights to the field of geospatial data science.
+I am a PhD student in Geospatial Data Science within the team at the University of Glasgow, having joined in Fall 2022. Prior to this, I earned my MEng in Urban Planning from Southeast University (China) and my BEng in Urban Planning from Chongqing University (China). My current research focuses on the application of Explainable Artificial Intelligence (XAI) in cities and society. I’m also interested in development and application of spatial analysis tools. My research focuses on the application of Explainable AI (XAI) in urban and social studies. My current studies leverages building footprint data and Explainable AI to investigates how and to what extent neighbourhood-scale urban morphology influences residential energy consumption across England.

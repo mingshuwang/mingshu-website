@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zhiya Xu
+title: Xinyan Xian
 
 # Full name (for SEO)
-first_name: Zhiya
-last_name: Xu
+first_name: Xinyan
+last_name: Xian
 
 # Username (this should match the folder name)
 authors:
-  - zhiya-xu
+  - Xinyan Xian
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,21 +25,20 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Urban Informatics
-  - Labour Geographies
-  - Geodata Science
-  - Housing and Rental Market
+  - Geographical Information Science
+  - Urban Analytics
+  - Spatial Optimization
 
 education:
   courses:
-    - course: PhD in Geospatial Data Science 
+    - course: PhD in Geospatial Data Science
       institution: University of Glasgow
       year: 
-    - course: MSc in Geoinformation Technology and Cartography
-      institution: University of Glasgow
+    - course: MSc in GIS
+      institution: National University of Singapore
       year: 
-    - course: BSc Environment and Sustainability
-      institution: University of British Columbia   
+    - course: BSc in GIS
+      institution: Beijing Forestry University
       year: 
 
 # Social/Academic Networking
@@ -49,7 +48,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:2651058X@student.gla.ac.uk'
+    link: 'mailto:x.xian.1@research.gla.ac.uk'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +65,6 @@ user_groups:
   - Current Students
 ---
 
-I am a PhD candidate in Geospatial Data Science at the University of Glasgow. My research investigates how housing and employment patterns interact to shape the spatial structure, efficiency, and equity of cities. Drawing on spatial economics, urban geography, and computational methods, I examine how urban systems operate and evolve in response to digital transformation and socioeconomic change. I work with large-scale datasets—from rental listings to job advertisements—using geospatial analysis, machine learning, and text data to examine spatial inequalities, economic clustering, and the role of language and technology in urban processes. Broadly, my work aims to generate data-driven insights that support more just, efficient, and adaptive approaches to urban planning and regional development.
+I joined the University of Glasgow in the autumn of 2023 as a PhD student in Geospatial Data Science. Prior to this, I earned a Master's degree in GIS from the National University of Singapore and a Bachelor's degree in GIS from Beijing Forestry University. My research experience includes work in the fields of urban built environments, walkability assessment, and urban vitality.
+
+My current research focuses on the application of Geographic Information Systems (GIS) and urban big data in spatial optimization. I am dedicated to exploring the intersection of GIS technology and urban dynamics, aiming to contribute valuable insights to the field of geospatial data science.

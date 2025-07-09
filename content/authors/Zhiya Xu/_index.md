@@ -1,15 +1,14 @@
 ---
 # Display name
-title: Rui Deng
+title: Zhiya Xu
 
 # Full name (for SEO)
-first_name: Rui
-last_name: Deng
+first_name: Zhiya
+last_name: Xu
 
 # Username (this should match the folder name)
 authors:
-  - rui-deng
-
+  - Zhiya Xu
 # Is this the primary user of the site?
 superuser: false
 
@@ -25,20 +24,21 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Modern deep learning models for geospatial tabular data and vector data
-  - GeoAI
-  - Explainable AI
+  - Urban Informatics
+  - Labour Geographies
+  - Geodata Science
+  - Housing and Rental Market
 
 education:
   courses:
-    - course: PhD in Geospatial Data Science
+    - course: PhD in Geospatial Data Science 
       institution: University of Glasgow
       year: 
-    - course: MSc in Cartography and GIS
-      institution: Aerospace Information Research Institute, Chinese Academy of Sciences
+    - course: MSc in Geoinformation Technology and Cartography
+      institution: University of Glasgow
       year: 
-    - course: BSc in Space Science and Technology
-      institution: Shandong University
+    - course: BSc Environment and Sustainability
+      institution: University of British Columbia   
       year: 
 
 # Social/Academic Networking
@@ -48,14 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:2911670D@student.gla.ac.uk'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=detEvc0AAAAJ&hl
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-
+    link: 'mailto:2651058X@student.gla.ac.uk'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +64,4 @@ user_groups:
   - Current Students
 ---
 
-I obtained my master's degree in Cartography and Geographic Information System from the University of Chinese Academy of Sciences and bachelor's degree in Space Science and Technology from Shandong University, China. My research experience includes remote sensing image processing and GeoAI for urban functional area understanding. My current work focuses on developing efficient and explainable models for processing geospatial data.
+I am a PhD candidate in Geospatial Data Science at the University of Glasgow. My research investigates how housing and employment patterns interact to shape the spatial structure, efficiency, and equity of cities. Drawing on spatial economics, urban geography, and computational methods, I examine how urban systems operate and evolve in response to digital transformation and socioeconomic change. I work with large-scale datasets—from rental listings to job advertisements—using geospatial analysis, machine learning, and text data to examine spatial inequalities, economic clustering, and the role of language and technology in urban processes. Broadly, my work aims to generate data-driven insights that support more just, efficient, and adaptive approaches to urban planning and regional development.
