@@ -1,82 +1,18 @@
----
-# Leave the homepage title empty to use the site title
-# 这一页实际上是主页
 
-title:
-date: 2022-10-24
-type: landing
-
-sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
----
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=generator content="Hugo Blox Builder 5.9.7"><link rel=stylesheet href=/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin=anonymous media=print onload='this.media="all"'><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css integrity crossorigin=anonymous media=print onload='this.media="all"'><link rel=stylesheet href=/css/wowchemy.37c3129fa572f6de5ff709e6da9888d2.css><link rel=stylesheet href=/css/libs/chroma/github-light.min.css title=hl-light media=print onload='this.media="all"'><link rel=stylesheet href=/css/libs/chroma/dracula.min.css title=hl-dark media=print onload='this.media="all"' disabled><meta name=author content="Mingshu Wang"><meta name=description content="A highly-customizable Hugo research group theme powered by Wowchemy website builder."><link rel=alternate hreflang=en-us href=https://dazzling-buttercream-e0f080.netlify.app/author/mingshu-wang/><link rel=canonical href=https://dazzling-buttercream-e0f080.netlify.app/author/mingshu-wang/><link rel=manifest href=/manifest.webmanifest><link rel=icon type=image/png href=/media/icon_hu5293530164378871658.png><link rel=apple-touch-icon type=image/png href=/media/icon_hu17248906492805101604.png><meta name=theme-color content="#1565c0"><meta property="twitter:card" content="summary"><meta property="twitter:site" content="@GetResearchDev"><meta property="twitter:creator" content="@GetResearchDev"><meta property="twitter:image" content="https://dazzling-buttercream-e0f080.netlify.app/author/mingshu-wang/avatar_hu291212686224142196.jpg"><meta property="og:type" content="website"><meta property="og:site_name" content="Mingshu Wang"><meta property="og:url" content="https://dazzling-buttercream-e0f080.netlify.app/author/mingshu-wang/"><meta property="og:title" content="Mingshu Wang"><meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder."><meta property="og:image" content="https://dazzling-buttercream-e0f080.netlify.app/author/mingshu-wang/avatar_hu291212686224142196.jpg"><meta property="og:locale" content="en-us"><link rel=alternate href=/author/mingshu-wang/index.xml type=application/rss+xml title="Mingshu Wang"><title>Mingshu Wang</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=2525497d367e79493fd32b198b28f040><script src=/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js></script><aside class=search-modal id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><div class="page-header header--fixed"><header><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container-xl><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=/>Mingshu Wang</a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=/>Mingshu Wang</a></div><div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=/post><span>News</span></a></li><li class=nav-item><a class=nav-link href=/people><span>People</span></a></li><li class=nav-item><a class=nav-link href=/publication><span>Publications</span></a></li><li class=nav-item><a class=nav-link href=/teaching><span>Teaching</span></a></li><li class=nav-item><a class=nav-link href=/contact><span>Contact</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a></li></ul></div></nav></header></div><div class=page-body><section id=profile-page class=pt-5><div class=container><div class=row><div class="col-12 col-lg-4"><div id=profile><img class="avatar avatar-circle" width=270 height=270 src=/author/mingshu-wang/avatar_hu291212686224142196.jpg alt="Mingshu Wang"><div class=portrait-title><h2>Mingshu Wang</h2><h3>Reader in Geospatial Data Science</h3><h3><span>University of Glasgow</span></h3></div><ul class=network-icon aria-hidden=true><li><a href=mailto:mingshu.wang@glasgow.ac.uk aria-label=envelope><i class="fas fa-envelope big-icon"></i></a></li><li><a href=https://x.com/MingshuWang target=_blank rel=noopener aria-label=twitter><i class="fab fa-twitter big-icon"></i></a></li><li><a href="https://scholar.google.com/citations?user=oVsGl44AAAAJ&amp;hl" target=_blank rel=noopener aria-label=google-scholar><i class="ai ai-google-scholar big-icon"></i></a></li><li><a href=https://uk.linkedin.com/in/mingshuwang target=_blank rel=noopener aria-label=linkedin><i class="fab fa-linkedin big-icon"></i></a></li><li><a href=https://orcid.org/0000-0001-5260-3143 target=_blank rel=noopener aria-label=orcid><i class="fab fa-orcid big-icon"></i></a></li></ul></div></div><div class="col-12 col-lg-8"><div class=article-style><h2 id=about-me>About Me</h2><p>Dr. Mingshu Wang is a Reader in Geospatial Data Science with a background that includes a BSc from Nanjing University (China) and an MSc and Ph.D. from the University of Georgia (USA). He is also a Visiting Scholar at the University of Amsterdam, The Netherlands. Prior to his current position, he served as a Senior Lecturer (Associate Professor with Tenure) in Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow, UK (2021-2024). He was also a tenure-track Assistant Professor of Geodata Science at the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Netherlands (2018-2021).</p><p>His research focuses on advancing GIScience and big data analytics methods, including GeoAI, explainable artificial intelligence, and econometrics, to better understand urban systems. Dr. Wang approaches his work from a people-centric perspective through two main research areas. At the macro level, he examines the connection between urban spatial structures (such as urban polycentricity) and the economic, social, and environmental performance of city-regions. At the micro level, he studies how the built environment influences collective human behaviors like mobility and organizational vitality.</p><p>Dr. Wang has authored over 60 peer-reviewed articles in prestigious journals covering GIScience, Urban Studies/Planning, and related disciplines. Six of his papers have been recognized as Web of Science ESI Highly Cited Papers, placing them in the top 1% of all publications. He has been listed by Elsevier and Stanford University as one of the World&rsquo;s Top 2% most-cited scientists since 2022.</p></div><div class=row><div class=col-md-5><div class=section-subheading>Interests</div><ul class="ul-interests mb-0"><li>Urban Informatics</li><li>Urban Science</li><li>GIScience</li><li>Geodata Science</li><li>City and Regional Development</li></ul></div><div class=col-md-7><div class=section-subheading>Education</div><ul class="ul-edu fa-ul mb-0"><li><i class="fa-li fas fa-graduation-cap"></i><div class=description><p class=course>Ph.D. in Geography (GIScience)</p><p class=institution>University of Georgia, USA</p></div></li><li><i class="fa-li fas fa-graduation-cap"></i><div class=description><p class=course>MSc. in Geography (GIScience)</p><p class=institution>University of Georgia, USA</p></div></li><li><i class="fa-li fas fa-graduation-cap"></i><div class=description><p class=course>BSc. in Regional Planning</p><p class=institution>Nanjing University, China</p></div></li></ul></div></div></div></div><div class="article-widget content-widget-hr"><h3>Latest</h3><ul><li><a href=/publication/preprint/>An example preprint / working paper</a></li><li><a href=/publication/journal-article/>An example journal article</a></li><li><a href=/publication/conference-paper/>An example conference paper</a></li></ul></div></div></section></div><div class=page-footer><div class=container><footer class=site-footer><p class="powered-by copyright-license-text">© 2025 Me. This work is licensed under <a href=https://creativecommons.org/licenses/by-nc-nd/4.0 rel="noopener noreferrer" target=_blank>CC BY NC ND 4.0</a></p><p class="powered-by footer-license-icons"><a href=https://creativecommons.org/licenses/by-nc-nd/4.0 rel="noopener noreferrer" target=_blank aria-label="Creative Commons"><i class="fab fa-creative-commons fa-2x" aria-hidden=true></i>
+<i class="fab fa-creative-commons-by fa-2x" aria-hidden=true></i>
+<i class="fab fa-creative-commons-nc fa-2x" aria-hidden=true></i>
+<i class="fab fa-creative-commons-nd fa-2x" aria-hidden=true></i></a></p><p class=powered-by>Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target=_blank rel=noopener>Hugo Blox Builder</a> — the free, <a href=https://github.com/HugoBlox/hugo-blox-builder target=_blank rel=noopener>open source</a> website builder that empowers creators.</p></footer></div></div><script src=/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js></script><script src=https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js integrity crossorigin=anonymous></script><script id=search-hit-fuse-template type=text/x-template>
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script><script src=https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin=anonymous></script><script src=https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin=anonymous></script><script id=page-data type=application/json>{"use_headroom":true}</script><script src=/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js type=module></script><script src=/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js></script><script src=/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js type=module></script><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i> Copy
+</a><a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i> Download</a><div id=modal-error></div></div></div></div></div><script src=/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js type=module></script></body></html>
