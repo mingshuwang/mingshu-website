@@ -1,0 +1,13 @@
+# === Publication type labels ===
+publication_type_0: "Other"
+publication_type_1: "Conference paper"
+publication_type_2: "Journal article"
+publication_type_3: "Preprint"
+publication_type_4: "Report"
+publication_type_5: "Book"
+publication_type_6: "Book section"   # ← 你关心的这行
+publication_type_7: "Thesis"
+publication_type_8: "Patent"
+publication_type_9: "Software"
+publication_type_10: "Poster"
+publication_type_11: "Dataset"
