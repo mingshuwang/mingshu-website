@@ -1,42 +1,44 @@
 ---
 # Display name
-title: Mingshu Wang
+title: Cai Wu
 
-# Full Name (for SEO)
-first_name: Mingshu
-last_name: Wang
+# Full name (for SEO)
+first_name: Cai
+last_name: Wu
+
+# Username (this should match the folder name)
+authors:
+  - cai-wu
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Reader in Geospatial Data Science
+role: PhD Graduate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Glasgow
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Urban Informatics
-  - Urban Science
-  - GIScience
-  - Geodata Science
-  - City and Regional Development
+  - Urban Morphology & Urban Activities
+  - Human-perceived Urban Space
+  - AI for Urban Evaluation & Redevelopment
 
 education:
   courses:
-    - course: Ph.D. in Geography (GIScience)
-      institution: University of Georgia, USA
+    - course: PhD Candidate in Geo-information Processing
+      institution: University of Twente, Netherlands
       year: 
-    - course: MSc. in Geography (GIScience)
-      institution: University of Georgia, USA
+    - course: MSc in Smart Cities and Urban Analytics
+      institution: University College London, United Kingdom
       year: 
-    - course: BSc. in Regional Planning
-      institution: Nanjing University, China
+    - course: BA in Architecture (Honours)
+      institution: National University of Singapore, Singapore
       year: 
 
 # Social/Academic Networking
@@ -46,20 +48,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mingshu.wang@glasgow.ac.uk'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/MingshuWang
+    link: 'mailto:caiwu@hkust-gz.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=oVsGl44AAAAJ&hl
-  - icon: linkedin
-    icon_pack: fab
-    link: https://uk.linkedin.com/in/mingshuwang
+    link: https://scholar.google.com/citations?user=jdnF-JYAAAAJ&hl
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5260-3143
-    
+    link: https://orcid.org/0000-0002-5578-5525
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,19 +65,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Alumni
 ---
 
-## About Me
-
-Dr. Mingshu Wang is a Reader in Geospatial Data Science with a background that includes a BSc from Nanjing University (China) and an MSc and Ph.D. from the University of Georgia (USA). He is also a Visiting Scholar at the University of Amsterdam, The Netherlands. Prior to his current position, he served as a Senior Lecturer (Associate Professor with Tenure) in Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow, UK (2021-2024). He was also a tenure-track Assistant Professor of Geodata Science at the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Netherlands (2018-2021).
-
-His research focuses on advancing GIScience and big data analytics methods, including GeoAI, explainable artificial intelligence, and econometrics, to better understand urban systems. Dr. Wang approaches his work from a people-centric perspective through two main research areas. At the macro level, he examines the connection between urban spatial structures (such as urban polycentricity) and the economic, social, and environmental performance of city-regions. At the micro level, he studies how the built environment influences collective human behaviors like mobility and organizational vitality.
-
-Dr. Wang has authored over 60 peer-reviewed articles in prestigious journals covering GIScience, Urban Studies/Planning, and related disciplines. Six of his papers have been recognized as Web of Science ESI Highly Cited Papers, placing them in the top 1% of all publications. He has been listed by Elsevier and Stanford University as one of the World's Top 2% most-cited scientists since 2022.
+Wu Cai is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility. At UAL, Cai hopes to integrate human perception with computer vision to quantify urban morphology.
