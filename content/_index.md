@@ -1,74 +1,82 @@
 ---
-# Display name
-title: Cai Wu
+# Leave the homepage title empty to use the site title
+# 这一页实际上是主页
 
-# Full name (for SEO)
-first_name: Cai
-last_name: Wu
+title:
+date: 2022-10-24
+type: landing
 
-# Username (this should match the folder name)
-authors:
-  - cai-wu
+sections:
+  - block: hero
+    content:
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
-# Is this the primary user of the site?
-superuser: false
+  - block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
 
-# Role/position
-role: PhD Graduate
-
-# Organizations/Affiliations
-organizations:
-  - name: The Hong Kong University of Science and Technology (Guangzhou)
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Urban Morphology & Urban Activities
-  - Human-perceived Urban Space
-  - AI for Urban Evaluation & Redevelopment
-
-education:
-  courses:
-    - course: PhD Candidate in Geo-information Processing
-      institution: University of Twente, Netherlands
-      year: 
-    - course: MSc in Smart Cities and Urban Analytics
-      institution: University College London, United Kingdom
-      year: 
-    - course: BA in Architecture (Honours)
-      institution: National University of Singapore, Singapore
-      year: 
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:caiwu@hkust-gz.edu.cn'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=jdnF-JYAAAAJ&hl
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-5578-5525
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Alumni
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
-
-Wu Cai is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility. At UAL, Cai hopes to integrate human perception with computer vision to quantify urban morphology.
