@@ -1,5 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
+# 这一页实际上是主页
+
 title:
 date: 2022-10-24
 type: landing
