@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yue Li1
+title: Yue Li(UvA)
 
 # Full name (for SEO)
 first_name: Yue
-last_name: Li
+last_name: Li(UvA)
 
 # Username (this should match the folder name)
 authors:
-  - Yue Li1
+  - Yue Li(UvA)
   
 # Is this the primary user of the site?
 superuser: false
