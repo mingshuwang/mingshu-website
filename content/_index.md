@@ -5,5 +5,5 @@ sections:
   - block: about.biography    # 只要这一个区块
     id: about                 # 给区块取个锚点，方便将来跳转
     content:
-      username: Mingshu wang  # 对应 authors 文件夹名称
+      username: Mingshu Wang  # 对应 authors 文件夹名称
 ---
