@@ -117,3 +117,17 @@ publications:
   date_format: January 2006
   citation_style: apa
 
+# ─── Publication type labels ─────────────────────────
+publication_types:
+  - Uncategorized        # 0
+  - Conference paper     # 1
+  - Journal article      # 2
+  - Preprint             # 3
+  - Report               # 4
+  - Book                 # 5
+  - Book section         # 6
+  - Thesis               # 7
+  - Patent               # 8
+  - Software             # 9
+  - Poster               # 10
+  - Dataset              # 11
