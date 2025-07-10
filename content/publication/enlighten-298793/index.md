@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:41.288176Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: The influence of neighbourhood characteristics on housing prices has gained
   increasing attention from scholars in recent decades. However, studies on the three-dimensional
   nature of urban space, and particularly the vertical dimension, have remained limited.

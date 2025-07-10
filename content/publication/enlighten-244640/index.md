@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:09.633652Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Unlike the data from traditional sources, there have not been standard ways
   to validate the quality and reliability of information derived from big data. This
   article argues that the theory of urban formation can be used to do the validation.

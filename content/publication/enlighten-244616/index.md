@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:54.729551Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: The recent literature on the \"consumer city\" and the \"love of variety\"
   argues that the provision of urban amenities makes a city more attractive. Meanwhile,
   polycentric urban development has been highlighted by academics and policymakers

@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:36.049690Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Public transportation, especially in large cities, is critical for livability.
   Counting passengers as they travel between stations is crucial to establishing and
   maintaining effective transportation systems. Various information and communication

@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:37.294417Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Despite the development of various heuristic and machine learning models,
   social media user occupation predication remains challenging due to limited high-quality
   ground truth data and difficulties in effectively integrating multiple data sources

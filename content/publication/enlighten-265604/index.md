@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:49.923837Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: 'In urban transportation systems, taxis are regarded as flexible, convenient,
   and time-saving. Taxi demand is affected by various built-environment factors and
   by the time of the day. Although many studies have investigated correlations between

@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:37.898117Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: "Urban morphology profoundly influences city planning and experiences significant\
   \ transformations as cities evolve. This paper investigates paradigm shifts in block-level\
   \ planning through a case study of Singapore, a city celebrated for its precision\

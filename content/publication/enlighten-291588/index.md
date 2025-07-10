@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:45.017276Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: 'Industrial regions and relevant infrastructures are known to contribute
   to air pollutant emissions; thus, a detailed investigation of the air pollutant
   concentrations of a region based on specific land uses, with spatial reasoning,

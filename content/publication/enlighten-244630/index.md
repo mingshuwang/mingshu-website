@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:02.911101Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Sleep quality heavily shapes the tourism experience because tourists spend
   a large amount of their travel time sleeping. In this study, we propose a conceptual
   framework of factors influencing sleep quality in hotels based on personal and hotel

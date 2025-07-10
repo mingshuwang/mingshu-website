@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:13.792800Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: No abstract available.
 publication: '*Environment and Planning A*'
 doi: 10.1177/0308518X15604760

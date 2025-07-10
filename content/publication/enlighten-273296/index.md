@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:47.404426Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Developing countries tend to exhibit evident urban-rural income divergence
   as urban areas rapidly expand into adjoining land. However, Western-centric urban
   theories and studies of spatial inequality have not paid sufficient attention to

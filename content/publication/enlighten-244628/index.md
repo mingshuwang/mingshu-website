@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:00.428601Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Customer online reviews of hotels have significant business value in the
   e-commerce and big data era. Online textual reviews have an open-structured form,
   and the technical side, namely the linguistic attributes of online textual reviews,

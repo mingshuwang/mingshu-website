@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:14.487584Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Universities are where innovations, face-to-face interactions and social
   capital are commonplace. Nevertheless, often regarded as 'the ivory tower', universities
   cannot be separated from the social and economic transformations outside of them.

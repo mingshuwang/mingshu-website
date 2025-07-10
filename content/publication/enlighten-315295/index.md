@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:39.819042Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: This study introduces a machine learning-based framework for mapping street
   patterns in urban morphology, offering an objective, scalable approach that transcends
   traditional methodologies. Focusing on six diverse cities, the research employed

@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:50.501326Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: The conservation of historical heritage can bring social benefits to cities
   by promoting community economic development and societal creativity. In the early
   stages of historical heritage conservation, the focus was on the museum-style concept

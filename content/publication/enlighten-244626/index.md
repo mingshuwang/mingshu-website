@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:59.214417Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: The exact location of objects, such as infrastructure, is crucial to the
   systematic understanding of the built environment. The emergence and development
   of the Internet of Things (IoT) have attracted growing attention to the low-cost

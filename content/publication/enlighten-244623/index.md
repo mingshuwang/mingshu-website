@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:57.266070Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: The prosperity of ride-sharing services has rippled in the communities of
   GIScience, transportation, and urban planning. Meanwhile, road network structure
   has been analyzed from a network science perspective that focuses on nodes and relational

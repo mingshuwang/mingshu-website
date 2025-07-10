@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:06.276103Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: This study explores the empirical relationship between city-level urban
   forms and CO2 emissions in 104 Chinese prefectural-level cities. Although the analytical
   focus is on polycentric urban forms, the analysis has also accounted for population

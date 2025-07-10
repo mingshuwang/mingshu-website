@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:21.319346Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Urban development is shaped by demographic and socio-economic factors, while
   simultaneously influencing these dynamics. Understanding these complex relationships
   is essential for informed urban planning, yet previous research has struggled with

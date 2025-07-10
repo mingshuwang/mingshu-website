@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:04.899896Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Inequality of accessibility in transportation systems is a constant concern,
   which is intensified by the transportation economization process and the digital
   divide. How should the accessibility of crowdsourced transportation is measured

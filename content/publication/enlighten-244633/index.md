@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:04.271501Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: "As urban tourism becomes an indispensable part of urban dynamics, tourist\
   \ attractions are increasingly woven into residents' everyday living spaces. However,\
   \ the spatial patterns of, and level of mix between tourist and local attractions\

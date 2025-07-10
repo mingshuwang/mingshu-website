@@ -42,7 +42,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:54.192769Z'
 publication_types:
-- "paper-journal"
+- "Journal article"
 abstract: Since COVID-19 spread rapidly worldwide, many countries have experienced
   significant growth in the number of confirmed cases and deaths. Earlier studies
   have examined various factors that may contribute to the contagion rate of COVID-19,
