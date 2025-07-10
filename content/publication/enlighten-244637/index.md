@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:07.584992Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Carbon dioxide (CO2) emissions from fossil-fuel combustion are a global
   concern, and since 2007, China has become the nation with the highest amount of
   CO2 emissions. In order to understand China's carbon science research and reduction

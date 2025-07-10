@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:51.708052Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Urban parks are essential components of urban ecosystems, providing recreation
   and relaxation places to residents. Measuring the spatial accessibility to urban
   parks serves as an initial step in urban planning and developing urban development

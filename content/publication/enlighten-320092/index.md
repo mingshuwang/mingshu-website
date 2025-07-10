@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:39.173187Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Streets are a crucial part of the built environment, and their layouts,
   the street patterns, are widely researched and contribute to a quantitative understanding
   of urban morphology. However, traditional street pattern analysis only considers

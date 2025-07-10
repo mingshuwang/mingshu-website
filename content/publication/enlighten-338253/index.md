@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:32.286293Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Traffic flow data has been used in various disciplines, including geography,
   transportation, urban planning, and public health. However, existing datasets often
   have limitations such as low spatiotemporal resolution and inconsistent quality

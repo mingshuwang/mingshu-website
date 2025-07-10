@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:10.944004Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Since cannabis (marijuana) has been listed by the U.S. federal government
   as a Schedule I substance under the Controlled Substances Act of 1970, legalization
   of cannabis has been a hot topic for decades. In this featured graphic, a total

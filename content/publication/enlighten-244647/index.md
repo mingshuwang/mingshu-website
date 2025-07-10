@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:11.673630Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Despite much insightful work on polycentric urban development in China,
   there is a lack of systematic comparison at the intra-city level. Therefore, this
   paper explores polycentric urban development in 318 cities of China using detailed

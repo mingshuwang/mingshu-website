@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:40.550083Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Graph theory effectively explains urban structures via street-street connectivity.
   However, systematic comparisons of street structures across cities remain challenging.
   This study employs graph convolutional networks (GCNs) to analyze street network

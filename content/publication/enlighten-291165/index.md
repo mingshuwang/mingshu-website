@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:45.587767Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Mass gatherings provide conditions for the transmission of infectious diseases
   and pose complex challenges to public health. Faced with the COVID-19 pandemic,
   governments and health experts called for suspension of gatherings in order to reduce

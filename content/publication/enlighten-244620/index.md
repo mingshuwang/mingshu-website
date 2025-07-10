@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:53.564845Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: "In recent years, much research has been devoted to developing appropriate\
   \ analytical frameworks to capture polycentric urban development (PUD). In a recent\
   \ contribution to this journal, Bartosiewicz and Marciŉczak (2020) present what\

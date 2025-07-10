@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:02.304588Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: This article reports a multi-scale analysis of polycentric urban development
   in 22 Chinese city-regions. Using fine-grained population data, our analysis contrasts
   polycentric development patterns at multiple geographical scales. We present a typology

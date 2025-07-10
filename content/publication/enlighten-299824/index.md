@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:43.788208Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Studies on polycentric urban development (PUD) have been done by using LandScan
   and point of interest data. So far, the quality of PUD products has been limited
   by the spatio-temporal resolution of these datasets. Using Sentinel-1 SAR missions

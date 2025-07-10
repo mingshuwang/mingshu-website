@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:42.583138Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Glasgow, Scotland, United Kingdom, has long-term issues with inequalities
   in health and food security, as well as large areas of vacant and derelict land.
   Urban agriculture projects can increase access to fresh food, improve mental health

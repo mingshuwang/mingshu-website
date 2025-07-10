@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:33.448865Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: This study uses building footprint data from the Ordnance Survey MasterMap
   to analyze construction and demolition activities across England from 2017 to 2023.
   By comparing the Topographic Object Identifiers (TOIDs) of each building between

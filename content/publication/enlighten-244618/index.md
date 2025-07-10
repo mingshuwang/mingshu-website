@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:55.305520Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: The considerable gap between urban and rural areas in China has been one
   of those social problems during the urbanization process. Since the early 2000s,
   an increasing number of theoretical and empirical studies have discussed the association

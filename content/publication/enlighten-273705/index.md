@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:48.650706Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Urban challenges are increasingly framed in the context of broader objectives
   of socio-economic development and macro-regional evolutions. Cities and the myriad
   networks in which they are embedded have thus been placed at the center of regional

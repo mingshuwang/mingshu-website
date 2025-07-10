@@ -75,7 +75,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:01.032062Z'
 publication_types:
-- "Book section"
+- "paper-bookpart"
 abstract: Recent developments for acquiring and distributing remotely-sensed data
   have greatly increased data availability to the user community. The past two decades
   have witnessed an explosion in data acquisition by a variety of ground, airborne

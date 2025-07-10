@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:08.975180Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Mangroves are critical in the ecological, economic and social development
   of coastal rural and urban communities. However, they are under threat by climate
   change and anthropogenic activities. The Sunda Banda Seascape (SBS), Indonesia,

@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:51.085643Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: This article uses big data from images captured by Google Street View (GSV)
   to analyse the extent to which the built environment impacts the survival rate of
   neighbourhood-based social organisations in Amsterdam, the Netherlands. These organisations

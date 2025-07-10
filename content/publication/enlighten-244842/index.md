@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:52.975532Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Polycentric urban development is gaining momentum in both scholarly research
   and real-life practice. This brings new demand for planning support systems to simulate
   and analyse the urban spatial structure in terms of polycentricity under various

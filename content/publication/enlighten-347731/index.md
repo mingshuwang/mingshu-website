@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:32.870391Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Urban areas serve as critical habitats for numerous plant species. Existing
   studies suggest that, due to human-mediated introductions, urban environments often
   harbor a greater variety of plant species compared to suburban areas, potentially

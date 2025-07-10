@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:52.387461Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Traffic congestion is an ever-increasing issue across urban environments
   in the US. One potential mitigation strategy is to improve our understanding of
   how the geographical patterns of urban land use influence congestion. Unfortunately,

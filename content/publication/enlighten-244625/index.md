@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:58.599316Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: In many big cities, the bike-sharing system (BSS) and taxi play critical
   roles in transportation services. They both offer on-demand transportation options
   and allow flexible riding scheduling and routing. Previous literature has compared

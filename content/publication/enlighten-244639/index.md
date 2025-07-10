@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:08.254080Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: Conventional ways of trip planning using online reviews from multiple sources
   are often cumbersome and uncustomizable. The advance in information and communication
   technology (ICT) and the surge in user-generated contents (UGC) provide great opportunities

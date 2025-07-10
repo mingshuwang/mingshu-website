@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:06.938063Z'
 publication_types:
-- "Journal article"
+- "paper-journal"
 abstract: 'In the past decades, there has been a resurgence of public bike-sharing
   systems (BSSs). While it is claimed that social and environmental benefits are associated
   with the implementation of BSSs, few empirical studies have investigated the actual
