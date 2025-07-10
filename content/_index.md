@@ -1,20 +1,9 @@
 ---
-title: "Home"
-type: landing          # 用 Page-builder 的 landing 布局
-
-# ===== 页面区块 =====
-blocks:
-
-  # --- 个人简介卡片 ---
-  - block: people
-    id: about-pi
+title: ""
+type: landing          # 告诉 Hugo 这是一个 Landing Page
+sections:
+  - block: about.biography    # 只要这一个区块
+    id: about                 # 给区块取个锚点，方便将来跳转
     content:
-      user_groups:
-        - Homepage      # 与作者 front-matter 完全一致
-    design:
-      view: card        # card / compact / list
-      columns: '1'
-      align: center
-
-# 不要再加其他 block，首页就只会渲染上面这一块
+      username: Mingshu wang  # 对应 authors 文件夹名称
 ---
