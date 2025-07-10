@@ -1,82 +1,20 @@
 ---
-# Leave the homepage title empty to use the site title
-# 这一页实际上是主页
+title: "Home"
+type: landing          # 用 Page-builder 的 landing 布局
 
-title:
-date: 2022-10-24
-type: landing
+# ===== 页面区块 =====
+blocks:
 
-sections:
-  - block: hero
+  # --- 个人简介卡片 ---
+  - block: people
+    id: about-pi
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      user_groups:
+        - Homepage      # 与作者 front-matter 完全一致
     design:
-      view: card
+      view: card        # card / compact / list
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      align: center
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+# 不要再加其他 block，首页就只会渲染上面这一块
 ---
