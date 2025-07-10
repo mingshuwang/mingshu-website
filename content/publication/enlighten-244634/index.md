@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:05.590923Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: No abstract available.
 publication: '*ISPRS International Journal of Geo-Information*'
 links:

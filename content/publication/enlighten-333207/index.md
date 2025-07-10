@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:35.397983Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: Urban traffic analysis has played an important role in urban development,
   providing insights for urban planning, traffic management, and resource allocation.
   Meanwhile, the global pandemic of COVID-19 has significantly changed people's travel

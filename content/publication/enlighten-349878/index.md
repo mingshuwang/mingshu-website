@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:31.012184Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: The urban form is a foundational element in urban analytics, planning, and
   design. However, systematic and consistent depiction of urban form is challenging
   due to the complexity of urban elements and the variety of scales involved. This

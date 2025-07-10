@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:38.521341Z'
 publication_types:
-- '1'
+- "paper-conference"
 abstract: Machine learning (ML) and Artificial Intelligence (AI) models have been
   increasingly adopted for geospatial tasks. However, geospatial data (such as points
   and raster cells) are often influenced by underlying spatial effects, and current

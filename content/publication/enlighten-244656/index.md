@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:17.788120Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: Due to the problem that current methods obtaining the weight values in intensive
   land use evaluation is influenced much by subjectivity of experts, cloud models
   to determine weight values were introduced in this study. Taking Guilin Advanced

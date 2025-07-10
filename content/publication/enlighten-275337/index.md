@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:46.777474Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: Scholarly interest in the accessibility of ridesharing services stems from
   debates within the transportation and planning communities on the inequality of
   access to transit and the growing digital divide embedded within novel forms of

@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:16.471712Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: The Sunda Banda Seascape (SBS), located in the center of the Coral Triangle,
   is a global center of marine biodiversity and a conservation priority. We proposed
   the first biophysical environmental delineation of the SBS using globally available

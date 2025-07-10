@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:55.989506Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: On March 11, 2020, the World Health Organization announced the novel coronavirus
   disease (COVID-19) as a pandemic. Despite an increasing number of international
   attempts using maps to present and communicate COVID-19-related information in different

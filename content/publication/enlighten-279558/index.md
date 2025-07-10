@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:46.184519Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: In the U.S., various anti-sprawl land use regulations have been implemented
   for over two decades. Previous studies primarily investigate the impacts of local
   land use regulations or neighborhood-level built environment attributes on travel

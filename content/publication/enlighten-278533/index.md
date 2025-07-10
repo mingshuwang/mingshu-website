@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:48.040085Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: Urban functional regions (UFRs) are formed and developed with human social
   actions and can reflect urban land use types. Appropriately identifying UFRs helps
   solve existing urban problems, optimize the spatial structure of cities, and provide

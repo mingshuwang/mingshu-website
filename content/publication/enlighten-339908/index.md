@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:34.112641Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: Land use conflicts (LUCs) are pivotal in understanding the complex interactions
   between human activities and global changes. This paper proposes a conceptual framework
   to analyze LUCs, focusing on land use suitability (LUS), scarcity, and diverse development

@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:30.408036Z'
 publication_types:
-- '0'
+- "paper-conference"
 abstract: This research compares the performance of deep learning models and large
   language models in a time  series traffic flow prediction. The evaluation results
   reveal distinct model performance differences  based on dataset selection and input

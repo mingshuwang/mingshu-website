@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:44.363891Z'
 publication_types:
-- '0'
+- "paper-conference"
 abstract: This research applies spatial Durbin model to analyse traffic flow distributions
   via various factors in the urban areas and traffic flow data. The results show that
   the overall built environment within a buffer area has more significant impact on

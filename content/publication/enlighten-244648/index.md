@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:10.266655Z'
 publication_types:
-- '0'
+- "paper-conference"
 abstract: 'Location Is (Still) Everything: The Surprising Influence of the Real World
   on How We Search, Shop, and Sell in the Virtual One David R. Bell. New Harvest,
   distributed by Houghton Mifflin Harcourt, Boston, MA, July 15, 2014. 240pp.; maps,

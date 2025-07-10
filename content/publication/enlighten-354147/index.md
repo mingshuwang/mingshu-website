@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:34.758218Z'
 publication_types:
-- '0'
+- "paper-conference"
 abstract: Modeling geospatial tabular data with deep learning has become a promising
   alternative to traditional statistical and machine learning approaches. However,
   existing deep learning models often face challenges related to scalability and flexibility

@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:49.265594Z'
 publication_types:
-- '0'
+- "paper-conference"
 abstract: Urban traffic analysis has acted an important role in the process of urban
   development, which can provide insights for urban planning, traffic management and
   resource allocation. Meanwhile, the advancement of Intelligent Transportation Systems

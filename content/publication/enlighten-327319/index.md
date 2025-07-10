@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:41.924832Z'
 publication_types:
-- '0'
+- "paper-conference"
 abstract: No abstract available.
 publication: '*AGILE: GIScience Series*'
 links:

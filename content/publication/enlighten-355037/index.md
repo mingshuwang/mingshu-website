@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:29.711639Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: Shrinking cities in China have garnered growing academic attention. However,
   most studies analyze these cities independently, overlooking their roles within
   broader urban networks. This study utilizes intercity migration and investment flow

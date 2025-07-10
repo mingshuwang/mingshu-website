@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:57.931993Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: "'Urban polycentricity' has become both a conceptual framework capturing\
   \ emerging empirical realities and a spatial planning vision adopted in cities across\
   \ Europe, USA, and, recently, also China. Despite the blossoming academic literature\

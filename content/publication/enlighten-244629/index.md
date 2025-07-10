@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:59.866309Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: The existing literature suggests that travel distance is a crucial factor
   that determines tourism demand and tourist behavior. However, there are limited
   attempts to understand how tourists' travel distance shapes their experiences, and

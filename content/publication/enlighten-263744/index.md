@@ -46,7 +46,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:43.161812Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: "The European Union (EU) Commission's whitepaper on Artificial Intelligence\
   \ (AI) proposes shaping the emerging AI market so that it better reflects common\
   \ European values. It is a master plan that builds upon the EU AI High-Level Expert\

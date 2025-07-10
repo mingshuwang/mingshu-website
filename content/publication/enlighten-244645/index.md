@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:13.100837Z'
 publication_types:
-- '1'
+- "paper-conference"
 abstract: No abstract available.
 publication: '*CyberGIS 2016 - CyberGIS Curriculum Workshop for Synthesizing Education
   Materials*'

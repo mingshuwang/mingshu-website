@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:56.645332Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: This paper analyzes the relationship between urban form, shrinking cities,
   and residential carbon emissions, based on information collected for prefectural-level
   and above Chinese cities for the years of 2005, 2010, and 2015. After controlling

@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:17.125165Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: When we examine the National Land Cover Database 2006 (NLCD 2006) in a small
   scale, we find out that there are only 4.5 ha (50 pixels) of emergent herbaceous
   wetlands in Athens-Clarke County, Georgia. In order to testify that it is not simply

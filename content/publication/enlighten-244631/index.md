@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:03.588942Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: The emergence and development of the Internet of Things (IoT) has attracted
   growing attention to low-cost location systems when facing the dramatically increased
   number of public infrastructure assets in smart cities. Various radio frequency

@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:12.339365Z'
 publication_types:
-- '2'
+- "paper-journal"
 abstract: In resonance with the popularity of user-generated contents (UGC) and the
   volunteered geographic information (VGI), this study crowdsourced 77,098 hotel reviews
   of 220 hotels provided by U.S. reviewers in the city of San Francisco, 2002 to 2015.
