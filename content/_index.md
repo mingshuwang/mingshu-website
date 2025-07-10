@@ -60,48 +60,23 @@ sections:
       columns: '1'
 
   - block: markdown
-    id: footer-img          # 格拉背景图
     content:
       title:
       subtitle: ''
-      text: ''
+      text:
     design:
       columns: '1'
-  
       background:
-        image:
-          filename: coders.jpg   # 保持不变
-          size: contain          # cover ➜ contain，整图可见且按比例缩放
-          position: center
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
           parallax: false
+          position: center
+          size: cover
           text_color_light: true
-  
-      spacing:                   # 上下保留 40 px 余白
-        padding: ['40px','0','40px','0']  # 顺序：上 右 下 左  :contentReference[oaicite:0]{index=0}
-  
-      css_class: banner-small    # 用你自己的类名，或者直接删掉此行
-      # css_style: 'min-height: 350px;'   # 不想写 SCSS 的话，可一行内联
-
-
-#  可以考虑放一张图在最下面
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle: ''
-#      text:
-#    design:
-#      columns: '1'
-#      background:
-#        image: 
-#          filename: coders.jpg
-#          filters:
-#            brightness: 1
-#          parallax: false
-#          position: center
-#          size: cover
-#          text_color_light: true
-#      spacing:
-#        padding: ['20px', '0', '20px', '0']
-#      css_class: fullscreen
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
 ---
