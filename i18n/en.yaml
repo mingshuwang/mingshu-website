@@ -1,0 +1,24 @@
+- id: pub_uncat
+  translation: "Other"
+- id: pub_conf
+  translation: "Conference paper"
+- id: pub_journal
+  translation: "Journal article"
+- id: pub_preprint
+  translation: "Preprint"
+- id: pub_report
+  translation: "Report"
+- id: pub_book
+  translation: "Book"
+- id: pub_book_section
+  translation: "Book section"
+- id: pub_thesis
+  translation: "Thesis"
+- id: pub_patent
+  translation: "Patent"
+- id: pub_software
+  translation: "Software"
+- id: pub_poster
+  translation: "Poster"
+- id: pub_dataset
+  translation: "Dataset"

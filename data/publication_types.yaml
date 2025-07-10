@@ -1,9 +1,12 @@
-"0": "Other"
-"1": "Conference paper"
-"2": "Journal article"
-"3": "Preprint"
-"4": "Report"
-"5": "Book"
-"6": "Book section"
-"7": "Thesis"
-"8": "Patent"
+- pub_uncat
+- pub_conf
+- pub_journal
+- pub_preprint
+- pub_report
+- pub_book
+- pub_book_section
+- pub_thesis
+- pub_patent
+- pub_software
+- pub_poster
+- pub_dataset
