@@ -25,9 +25,9 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Urban Morphology & Urban Activities
-  - Human-perceived Urban Space
-  - AI for Urban Evaluation & Redevelopment
+  - Urban Morphology
+  - Human-Environment Perception & Interaction
+  - GeoAI and Spatial Equity
 
 education:
   courses:
