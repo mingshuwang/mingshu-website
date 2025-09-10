@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Scholar
+role: Visiting Phd
 
 # Organizations/Affiliations
 organizations:
