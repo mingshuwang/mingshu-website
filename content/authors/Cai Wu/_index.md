@@ -71,4 +71,6 @@ user_groups:
   - Alumni
 ---
 
-Wu Cai is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility. At UAL, Cai hopes to integrate human perception with computer vision to quantify urban morphology.
+Dr. Cai Wu is currently an Assistant Professor in Urban Governance and Design Thrust at the Society Hub of the Hong Kong University of Science and Technology (Guangzhou). He holds a Bachelor degree in Architecture from the National University of Singapore, a Master degree in Smart Cities and Urban Analytics from University College London, and a PhD degree in Urban Analysis (Design) from the University of Twente in the Netherlands. He has served as a visiting scholar at the Urban Analytic Lab (UAL) at the National University of Singapore.
+
+Dr. Wu's currently leads the Urban Morphology Studio (UMS). UMS spans the interdisciplinary fields of architecture, geographic information science, and urban informatics, specifically focusing on integrating data with emerging quantitative methods to understand urban forms and their relationship with urban activities. 
