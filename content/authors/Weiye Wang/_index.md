@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Alumni
 ---
 
 I obtained my bachelor’s degree in Landscape Architecture from Nanjing Forestry University, followed by a Master of Landscape Architecture from the University of Georgia, where I am currently a PhD Candidate in Environmental Planning and Design. My research and teaching focus on the intersection of environmental behavior and design, particularly how affordance theory and environmental psychology can be applied to the study of pedestrian systems and urban public spaces.
