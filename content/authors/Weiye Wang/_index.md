@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. Cadidate in Environmental Planning and Design
+    - course: Ph.D. Candidate in Environmental Planning and Design
       institution: University of Georgia, USA
       year: 
     - course: Master of Landscape Architecture
