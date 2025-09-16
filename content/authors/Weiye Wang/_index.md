@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Scholar
+role: PhD Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -24,10 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#  - Geographical Information Science
-#  - Urban Analytics
-#  - Spatial Optimization
+interests:
+  - Environmental Behavior and Affordance-Based Design
+  - Environmental Psychology
+  - Pedestrian Systems in Urban Public Spaces
+  - Landscape Planning and Spatial Design
 
 education:
   courses:

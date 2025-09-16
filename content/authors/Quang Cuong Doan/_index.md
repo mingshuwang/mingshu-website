@@ -17,7 +17,7 @@ superuser: false
 role: Visiting PhD
 
 # Organizations/Affiliations
-organizations:
+organizations: The University of Hong Kong
   - name: 
     url: ''
 
