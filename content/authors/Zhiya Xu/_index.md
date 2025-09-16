@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Researcher
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
