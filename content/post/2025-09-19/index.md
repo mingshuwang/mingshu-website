@@ -1,12 +1,11 @@
 ---
 title: Recognized Among World’s Top 2% Scientists (2025)
 date: 2025-09-19
-profile: false      
+#profile: false      
+authors: ["Mingshu Wang", "Xinyan Xian"]
 image:
   preview_only: true   # 只作为列表卡片封面，正文不开头自动铺图
 ---
-
-I am honored to be included once again in the Elsevier and Stanford University Top 2% Scientists list
 
 <!--more-->
 
