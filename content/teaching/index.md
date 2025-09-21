@@ -13,11 +13,11 @@ sections:
         ## At the University of Glasgow (2021- )
 
         ### **Graduate-level Courses**
-        - **GEOG 5015:** Web and Mobile Mapping
-        - **GEOG 5026:** Visualisation & Map Use
-        - **GEOG 5013:** Geospatial Data Infrastructure and Land Administration
-        - **GEOG 5019:** Principles of GIS
-
+        - **GEOG 5015:** Web and Mobile Mapping ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5015))
+        - **GEOG 5026:** Visualisation & Map Use ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5026))
+        - **GEOG 5013:** Geospatial Data Infrastructure and Land Administration ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5013))
+        - **GEOG 5019:** Principles of GIS ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019))
+        
         ### **Undergraduate-level Courses**
         - **GEOG 4111:** Applied Spatial Analysis (GIS A)
         
