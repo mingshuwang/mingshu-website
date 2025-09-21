@@ -13,13 +13,13 @@ sections:
         ## At the University of Glasgow (2021- )
 
         ### **Graduate-level Courses**
-        - **GEOG 5015:** Web and Mobile Mapping ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5015))
-        - **GEOG 5026:** Visualisation & Map Use ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5026))
-        - **GEOG 5013:** Geospatial Data Infrastructure and Land Administration ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5013))
-        - **GEOG 5019:** Principles of GIS ([catalogue](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019))
+        - **GEOG 5015:** Web and Mobile Mapping ([GEOG5015](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5015))
+        - **GEOG 5026:** Visualisation & Map Use ([GEOG5026](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5026))
+        - **GEOG 5013:** Geospatial Data Infrastructure and Land Administration ([GEOG5013](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5013))
+        - **GEOG 5019:** Principles of GIS ([GEOG5019](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019))
         
         ### **Undergraduate-level Courses**
-        - **GEOG 4111:** Applied Spatial Analysis (GIS A)
+        - **GEOG 4111:** Applied Spatial Analysis (GIS A)([GEOG4111](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111))
         
         ---
         ## At the University of Twente (2018-2021)
