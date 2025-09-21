@@ -19,7 +19,7 @@ sections:
         - **GEOG 5019:** Principles of GIS ([GEOG5019](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019))
         
         ### **Undergraduate-level Courses**
-        - **GEOG 4111:** Applied Spatial Analysis (GIS A)([GEOG4111](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111))
+        - **GEOG 4111:** Applied Spatial Analysis (GIS A) ([GEOG4111](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111))
         
         ---
         ## At the University of Twente (2018-2021)
