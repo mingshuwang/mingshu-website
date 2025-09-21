@@ -7,8 +7,9 @@ image:
   preview_only: true   # 只作为列表卡片封面，正文不开头自动铺图
 ---
 
+I am honored to be included once again in the Elsevier and Stanford University Top 2% Scientists list
 
-<!--这个地方可以写一小段开头I am honored to be included once again in the Elsevier and Stanford University Top 2% Scientists list-->
+<!--more-->
 
 {{< figure src="featured.jpg">}}
 
