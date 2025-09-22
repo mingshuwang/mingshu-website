@@ -1,6 +1,8 @@
 ---
 title: Recognized Among World’s Top 2% Scientists (2025)
 date: 2025-09-05
+image:
+  preview_only: true   # 关键：封面图仅用于列表，不在正文顶部自动显示
 
 ---
 
