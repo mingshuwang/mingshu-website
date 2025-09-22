@@ -3,7 +3,6 @@ title: Recognized Among World’s Top 2% Scientists (2025)
 date: 2025-09-19
 image:
   preview_only: true   # 关键：封面图仅用于列表，不在正文顶部自动显示
-#  focal_point: Top     # 可选，让摘要置顶图片放下面
 
 #profile: false      
 #authors: ["Mingshu Wang", "Xinyan Xian"]
