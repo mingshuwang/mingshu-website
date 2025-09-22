@@ -3,14 +3,11 @@ title: Recognized Among World’s Top 2% Scientists (2025)
 date: 2025-09-19
 image:
   preview_only: true   # 关键：封面图仅用于列表，不在正文顶部自动显示
+summary: "Recognized for the fourth consecutive year (2022–2025) in Elsevier & Stanford’s Top 2% Scientists list, ranking 581st globally and 32nd in the UK in Geological & Geomatics Engineering."
 
 #profile: false      
 #authors: ["Mingshu Wang", "Xinyan Xian"]
 ---
-
-Recognized for the fourth consecutive year (2022–2025) in Elsevier & Stanford’s Top 2% Scientists list, ranking 581st globally and 32nd in the UK in Geological & Geomatics Engineering.
-
-<!--more-->
 
 {{< figure src="featured0.jpg" >}}
 
