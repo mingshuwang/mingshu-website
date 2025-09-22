@@ -8,7 +8,7 @@ image:
 
 
 
-On September 4–5, 2025, I was invited to deliver a keynote talk and join a panel discussion at the EPSRC CDT in Geospatial Systems Annual Assembly, <!--more-->hosted at the Nottingham Contemporary Art Gallery. My keynote, “Small, Fast, Accurate – The Promise of GeoAggregator for GeoAI”, highlighted the recent development of GeoAggregator (https://ojs.aaai.org/index.php/AAAI/article/view/33259/35414) and the new possibilities it opens up for the geospatial community.
+On September 4–5, 2025, I was invited to deliver a keynote talk and join a panel discussion at the EPSRC CDT in Geospatial Systems Annual Assembly, <--more-->hosted at the Nottingham Contemporary Art Gallery. My keynote, “Small, Fast, Accurate – The Promise of GeoAggregator for GeoAI”, highlighted the recent development of GeoAggregator (https://ojs.aaai.org/index.php/AAAI/article/view/33259/35414) and the new possibilities it opens up for the geospatial community.
 
 The EPSRC CDT in Geospatial Systems, a partnership between Newcastle University and the University of Nottingham, was established in 2019 to train the next generation of geospatial engineers and scientists. With the UK Geospatial Commission estimating that open geospatial data could generate an £11bn annual economic impact, and the global industry valued at $500bn, the CDT plays a pivotal role in advancing innovation and capacity in this fast-evolving field.
 
