@@ -9,9 +9,9 @@ image:
 #authors: ["Mingshu Wang", "Xinyan Xian"]
 ---
 
-<!--more这行上面可以写一小段摘要-->
+<!--more-->
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured0.jpg" >}}
 
 I am honored to be included once again in the Elsevier and Stanford University Top 2% Scientists list, marking my fourth consecutive year of recognition (2022–2025). In the 2025 edition, I ranked 581st worldwide and 32nd in the UK within Geological & Geomatics Engineering.
 
