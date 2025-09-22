@@ -7,6 +7,7 @@ summary: "Recognized for the fourth consecutive year (2022–2025) in Elsevier &
 
 #profile: false      
 #authors: ["Mingshu Wang", "Xinyan Xian"]
+#share: false   # ← 关闭底部分享图标
 ---
 
 {{< figure src="featured0.jpg" >}}

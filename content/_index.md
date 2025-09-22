@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ""                  #这一页其实是主页
 type: landing          # 告诉 Hugo 这是一个 Landing Page
 sections:
   - block: about.biography    # 只要这一个区块
