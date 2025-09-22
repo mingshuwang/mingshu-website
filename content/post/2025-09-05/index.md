@@ -6,6 +6,8 @@ image:
 
 ---
 
+Delivered a keynote and joined a panel at the EPSRC CDT in Geospatial Systems Annual Assembly (Nottingham, Sept 2025), presenting ‘Small, Fast, Accurate – The Promise of GeoAggregator for GeoAI.
+
 <!--more-->
 
 On September 4–5, 2025, I was invited to deliver a keynote talk and join a panel discussion at the EPSRC CDT in Geospatial Systems Annual Assembly, hosted at the Nottingham Contemporary Art Gallery. My keynote, “Small, Fast, Accurate – The Promise of GeoAggregator for GeoAI”, highlighted the recent development of GeoAggregator (https://ojs.aaai.org/index.php/AAAI/article/view/33259/35414) and the new possibilities it opens up for the geospatial community.
