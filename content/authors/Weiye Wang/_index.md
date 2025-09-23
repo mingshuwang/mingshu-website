@@ -68,4 +68,5 @@ user_groups:
 ---
 
 I obtained my bachelor’s degree in Landscape Architecture from Nanjing Forestry University, followed by a Master of Landscape Architecture from the University of Georgia, where I am currently a PhD Candidate in Environmental Planning and Design. My research and teaching focus on the intersection of environmental behavior and design, particularly how affordance theory and environmental psychology can be applied to the study of pedestrian systems and urban public spaces.
+
 I am currently a Lecturer at the Faculty of Humanities and Arts, Macau University of Science and Technology. My work seeks to help students build a strong foundation in both technical knowledge and creative design thinking, bridging theory and practice to prepare them for professional development in architecture, interior, and landscape design.
