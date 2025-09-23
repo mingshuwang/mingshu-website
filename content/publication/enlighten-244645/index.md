@@ -32,8 +32,7 @@ publishDate: '2025-07-09T15:27:13.100837Z'
 publication_types:
 - "paper-conference"
 abstract: No abstract available.
-publication: '*CyberGIS 2016 - CyberGIS Curriculum Workshop for Synthesizing Education
-  Materials*'
+publication: '*CyberGIS 2016 - CyberGIS Curriculum Workshop for Synthesizing Education Materials*. https://eprints.gla.ac.uk/244645/'
 links:
 - name: URL
   url: https://eprints.gla.ac.uk/244645/

@@ -51,7 +51,7 @@ abstract: Machine learning (ML) and Artificial Intelligence (AI) models have bee
   tasks. This work proposes a generalizable approach to better modeling and measuring
   complex spatial contextual effects, potentially contribute to efficient and reliable
   urban analytic applications that require geo-context information.
-publication: '*A Transformer-Based Model for Effective Representation of Geospatial Data and Context*, In EGUsphere, EGU General Assembly 2024 (p. 1003). Copernicus Meetings. https://doi.org/10.5194/egusphere-egu24-1003'
+publication: '*A Transformer-Based Model for Effective Representation of Geospatial Data and Context*. In EGUsphere, EGU General Assembly 2024 (p. 1003). Copernicus Meetings. https://doi.org/10.5194/egusphere-egu24-1003'
 doi: 10.5194/egusphere-egu24-1003
 links:
 - name: URL

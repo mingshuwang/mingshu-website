@@ -43,7 +43,7 @@ abstract: This research applies spatial Durbin model to analyse traffic flow dis
   rather than having long distance travel. The initial findings from this research
   provide evidence of developing 20-minute city via active travel for achieving net-zero
   carbon target.
-publication: '*31st Annual Geographical Information Science Research UK Conference (GISRUK2023)*, Zenodo. https://doi.org/10.5281/zenodo.7839683'
+publication: '*31st Annual Geographical Information Science Research UK Conference (GISRUK2023)*. Zenodo. https://doi.org/10.5281/zenodo.7839683'
 doi: 10.5281/zenodo.7839683
 links:
 - name: URL

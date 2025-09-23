@@ -47,7 +47,7 @@ abstract: This research compares the performance of deep learning models and lar
   models  maintain a relatively stable trend. These findings highlight the superior
   capacity of large language  models to process and utilise long-term dependencies
   in time series prediction.
-publication: '*CUPUM 2025 The 19th International Conference on Computational Urban Planning & Urban Management, University College London. https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025*'
+publication: '*CUPUM 2025 The 19th International Conference on Computational Urban Planning & Urban Management*. University College London. https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025'
 links:
 - name: URL
   url: https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025
