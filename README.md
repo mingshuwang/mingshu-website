@@ -1,6 +1,6 @@
 # Dr. Mingshu Wang's Academic Website
 
-https://mingshuwang.org/
+https://mingshuwang.org
 
 ---
 © Mingshu Wang 2025
