@@ -61,7 +61,7 @@ abstract: Public transportation, especially in large cities, is critical for liv
   results. Furthermore, through detection k-anonymity, it is possible to count travelers
   between two locations with high accuracy. However, counting travelers from more
   than two locations leads to more inaccurate results.
-publication: '*Computers, Environment and Urban Systems*'
+publication: '*Computers, Environment and Urban Systems*, 110'
 doi: 10.1016/j.compenvurbsys.2024.102091
 links:
 - name: URL

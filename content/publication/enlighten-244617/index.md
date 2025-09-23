@@ -60,7 +60,7 @@ abstract: Since COVID-19 spread rapidly worldwide, many countries have experienc
   the initial stage of possible severe epidemics, indicating that the local public
   health authorities should implement sufficient measures and adopt effective interventions
   in the areas and places with a high probability of crowded residents.
-publication: '*Sustainable Cities and Society*'
+publication: '*Sustainable Cities and Society*, 66'
 doi: 10.1016/j.scs.2020.102685
 links:
 - name: URL

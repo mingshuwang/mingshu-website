@@ -45,7 +45,7 @@ abstract: Inequality of accessibility in transportation systems is a constant co
   correlate with greater Uber accessibility. More public transport stops are related
   to better accessibility of UberX but worse accessibility of UberBLACK. Finally,
   implications for policy-makers are provided.
-publication: '*Computers, Environment and Urban Systems*'
+publication: '*Computers, Environment and Urban Systems*, 67, pp. 169--175'
 doi: 10.1016/j.compenvurbsys.2017.09.003
 links:
 - name: URL

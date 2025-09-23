@@ -42,7 +42,7 @@ abstract: The influence of neighbourhood characteristics on housing prices has g
   a price premium for housing located in immediate neighbourhoods with more open mid-rise
   buildings and low plants. The results also demonstrate the varying effects of determinants
   of house pricing in spatially heterogeneous zones.
-publication: '*Environment and Planning B: Urban Analytics and City Science*'
+publication: '*Environment and Planning B: Urban Analytics and City Science*, 51(2), pp. 438--455'
 doi: 10.1177/23998083231180213
 links:
 - name: URL

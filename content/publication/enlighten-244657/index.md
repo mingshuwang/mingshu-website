@@ -39,7 +39,7 @@ abstract: Since cannabis (marijuana) has been listed by the U.S. federal governm
   states with the highest price of cannabis are where cannabis possession/selling
   is illegal and the sample size is small; states with the lowest price of cannabis
   where cannabis possession/selling is legal.
-publication: '*Environment and Planning A*'
+publication: '*Environment and Planning A*, 48(8), pp. 1449--1451'
 doi: 10.1177/0308518X15598541
 links:
 - name: URL

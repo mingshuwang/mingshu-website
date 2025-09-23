@@ -43,7 +43,7 @@ abstract: On March 11, 2020, the World Health Organization announced the novel c
   Tableau-based interactive dashboard to demonstrate where and how different countries
   are fighting against COVID-19. The dashboard allows users to specify countries they
   want to compare and aggregate relevant data on a daily, weekly, or monthly basis.
-publication: '*Environment and Planning A*'
+publication: '*Environment and Planning A*, 52(8), pp. 1483--1486'
 doi: 10.1177/0308518X20931515
 links:
 - name: URL

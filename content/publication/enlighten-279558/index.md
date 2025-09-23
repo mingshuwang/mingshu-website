@@ -57,7 +57,7 @@ abstract: In the U.S., various anti-sprawl land use regulations have been implem
   To reduce automobile dependency, planners should commit to improving public transit
   through enhanced financial assistance, harnessing land use regulations in a more
   targeted way, and accommodating the needs of different age cohorts.
-publication: '*Land Use Policy*'
+publication: '*Land Use Policy*, 122'
 doi: 10.1016/j.landusepol.2022.106343
 links:
 - name: URL

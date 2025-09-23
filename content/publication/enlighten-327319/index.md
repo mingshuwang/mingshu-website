@@ -36,7 +36,7 @@ publishDate: '2025-07-09T15:26:41.924832Z'
 publication_types:
 - "paper-conference"
 abstract: No abstract available.
-publication: '*AGILE: GIScience Series*'
+publication: '*AGILE: GIScience Series*, 5'
 links:
 - name: URL
   url: https://agile-giss.copernicus.org/articles/5/

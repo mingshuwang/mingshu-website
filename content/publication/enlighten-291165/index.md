@@ -57,7 +57,7 @@ abstract: Mass gatherings provide conditions for the transmission of infectious 
   10-day period and by 737 cases (or 97.23%) over the 30-day period. These findings
   suggest the necessity of tightening social distancing policies, especially the prohibition
   on group gathering regulation (POGGR), to prevent and control COVID-19 outbreaks.
-publication: '*PLoS ONE*'
+publication: '*PLoS ONE*, 18(2)'
 doi: 10.1371/journal.pone.0279539
 links:
 - name: URL

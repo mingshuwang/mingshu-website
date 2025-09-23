@@ -48,7 +48,7 @@ abstract: This article uses big data from images captured by Google Street View 
   other recently developed methods offer researchers the opportunity to conduct detailed
   yet relatively swift and inexpensive studies without resorting to overly coarse
   or common subjective measurements.
-publication: '*Urban Studies*'
+publication: '*Urban Studies*, 58(15), pp. 3118--3139'
 doi: 10.1177/0042098020957198
 links:
 - name: URL

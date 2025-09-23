@@ -54,7 +54,7 @@ abstract: Land use conflicts (LUCs) are pivotal in understanding the complex int
   land into construction land. These findings underscore the need for tailored land
   management strategies for each city or region, based on their specific development
   contexts.
-publication: '*Land Use Policy*'
+publication: '*Land Use Policy*, 148'
 doi: 10.1016/j.landusepol.2024.107382
 links:
 - name: URL

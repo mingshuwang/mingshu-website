@@ -31,7 +31,7 @@ publishDate: '2025-07-09T15:27:15.118063Z'
 publication_types:
 - "paper-journal"
 abstract: No abstract available.
-publication: '*Photogrammetric Engineering and Remote Sensing*'
+publication: '*Photogrammetric Engineering and Remote Sensing*, 81(9), pp. --692'
 doi: 10.14358/PERS.81.9.692
 links:
 - name: URL

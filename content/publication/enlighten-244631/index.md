@@ -54,7 +54,7 @@ abstract: The emergence and development of the Internet of Things (IoT) has attr
   Our experiment demonstrates the effectiveness and advantages of the proposed scheme
   with sufficient accuracy, low cost and easy deployment on a large scale. The proposed
   scheme has potential applications for location-based services in smart cities.
-publication: '*ISPRS International Journal of Geo-Information*'
+publication: '*ISPRS International Journal of Geo-Information*, 7(5)'
 doi: 10.3390/ijgi7050180
 links:
 - name: URL

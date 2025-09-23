@@ -43,7 +43,7 @@ abstract: This article reports a multi-scale analysis of polycentric urban devel
   and Western China are characterized by a primate urban system and low levels of
   inter-city polycentricity. We hypothesize the major economic, political, and geographical
   processes underlying observed patterns.
-publication: '*Environment and Planning B: Urban Analytics and City Science*'
+publication: '*Environment and Planning B: Urban Analytics and City Science*, 45(5), pp. 953--972'
 doi: 10.1177/2399808317690155
 links:
 - name: URL

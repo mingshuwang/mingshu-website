@@ -46,7 +46,7 @@ abstract: Sleep quality heavily shapes the tourism experience because tourists s
   In addition, hotel star rating, nearby restaurant density, number of hotel floors,
   and the hotel sleeping environment also influence hotel sleep quality. Implications
   of this study are provided in closing.
-publication: '*International Journal of Hospitality Management*'
+publication: '*International Journal of Hospitality Management*, 74, pp. 189--201'
 doi: 10.1016/j.ijhm.2018.05.002
 links:
 - name: URL

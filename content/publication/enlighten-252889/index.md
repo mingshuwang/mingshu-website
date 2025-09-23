@@ -50,7 +50,7 @@ abstract: Urban parks are essential components of urban ecosystems, providing re
   realistic accessibility measures than other methods. We also discuss the generality
   of the entrance-based method we propose and suggest ways to choose the most appropriate
   accessibility measure for use in different contexts.
-publication: '*Computers, Environment and Urban Systems*'
+publication: '*Computers, Environment and Urban Systems*, 90'
 doi: 10.1016/j.compenvurbsys.2021.101713
 links:
 - name: URL

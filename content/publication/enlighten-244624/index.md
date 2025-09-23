@@ -47,7 +47,7 @@ abstract: "'Urban polycentricity' has become both a conceptual framework capturi
   \ an agglomeration spillover effect, as well as a potential weak positive interaction\
   \ effect between intra- and inter-urban polycentricity. The paper concludes with\
   \ policy implications for China's spatial development."
-publication: '*Environment and Planning A: Economy and Space*'
+publication: '*Environment and Planning A: Economy and Space*, 51(8), pp. 1622--1643'
 doi: 10.1177/0308518X19866836
 links:
 - name: URL

@@ -55,7 +55,7 @@ abstract: Shrinking cities in China have garnered growing academic attention. Ho
   shrinking cities' roles in regional population and capital redistribution. The findings
   offer critical insights into the network roles of shrinking cities, supporting the
   formulation of coordinated development strategies across China's regions.
-publication: '*Applied Geography*'
+publication: '*Applied Geography*, 180'
 doi: 10.1016/j.apgeog.2025.103664
 links:
 - name: URL

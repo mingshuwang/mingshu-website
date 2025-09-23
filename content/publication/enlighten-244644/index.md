@@ -40,7 +40,7 @@ abstract: In resonance with the popularity of user-generated contents (UGC) and 
   (BLUE); therefore, spatial model might be required for analysing any antecedents
   and consequences of such phenomena. These results have implications in marketing
   and management strategies.
-publication: '*International Archives of the Photogrammetry, Remote Sensing and Spatial
+publication: '*International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, XLI-B2, pp. 573--576'
   Information Sciences*'
 doi: 10.5194/isprs-archives-xli-b2-573-2016
 links:

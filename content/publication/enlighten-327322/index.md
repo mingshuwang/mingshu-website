@@ -35,7 +35,7 @@ publishDate: '2025-07-09T15:26:36.638815Z'
 publication_types:
 - "paper-journal"
 abstract: No abstract available.
-publication: '*AGILE: GIScience Series*'
+publication: '*AGILE: GIScience Series*, 5'
 doi: 10.5194/agile-giss-5-1-2024
 links:
 - name: URL

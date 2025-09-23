@@ -56,7 +56,7 @@ abstract: Streets are a crucial part of the built environment, and their layouts
   morphometric street pattern to characterise urban morphology has an enhanced ability
   to encompass more information from the built environment while maintaining the intuitiveness
   of using patterns.
-publication: '*Computers, Environment and Urban Systems*'
+publication: '*Computers, Environment and Urban Systems*, 109'
 doi: 10.1016/j.compenvurbsys.2024.102078
 links:
 - name: URL

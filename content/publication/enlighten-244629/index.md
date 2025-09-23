@@ -43,7 +43,7 @@ abstract: The existing literature suggests that travel distance is a crucial fac
   identified. The implications of these findings contribute to literature on tourism
   geography and allow tourism marketers to develop more effective differential marketing
   strategies.
-publication: '*International Journal of Hospitality Management*'
+publication: '*International Journal of Hospitality Management*, 76(Part A), pp. 261--270'
 doi: 10.1016/j.ijhm.2018.05.015
 links:
 - name: URL

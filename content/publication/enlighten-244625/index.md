@@ -55,7 +55,7 @@ abstract: In many big cities, the bike-sharing system (BSS) and taxi play critic
   the significance of machine learning techniques in urban mobility research. Results
   of the study may potentially support people's transportation decision-making and
   facilitate sustainable transportation planning.
-publication: '*Journal of Transport Geography*'
+publication: '*Journal of Transport Geography*, 79'
 doi: 10.1016/j.jtrangeo.2019.102479
 links:
 - name: URL

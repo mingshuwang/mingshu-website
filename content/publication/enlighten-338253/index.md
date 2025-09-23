@@ -45,7 +45,7 @@ abstract: Traffic flow data has been used in various disciplines, including geog
   traffic management, infrastructure planning, and urban environment improvement.
   Also, it provides a valuable dataset to understand traffic flow change during a
   once-in-a-lifetime pandemic event.
-publication: '*Scientific Data*'
+publication: '*Scientific Data*, 12'
 doi: 10.1038/s41597-025-04494-y
 links:
 - name: URL

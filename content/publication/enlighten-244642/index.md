@@ -44,7 +44,7 @@ abstract: This study explores the empirical relationship between city-level urba
   of CO2 emissions in Chinese cities have often been limited to a handful of provincial
   capitals, the analysis covers a larger sample of cities. The paper concludes with
   spatial planning policy implications.
-publication: '*Journal of Urban Planning and Development*'
+publication: '*Journal of Urban Planning and Development*, 143(4)'
 doi: 10.1061/(ASCE)UP.1943-5444.0000400
 links:
 - name: URL
