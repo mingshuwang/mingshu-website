@@ -1,8 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Where England's cities are growing: evidence from big building footprint data\
-  \ and explainable AI"
+title: "Unpacking China's land use and trade-driven land transfers through telecoupling"
 subtitle: ''
 summary: ''
 authors:
