@@ -34,7 +34,7 @@ publishDate: '2025-07-09T15:27:05.590923Z'
 publication_types:
 - "paper-journal"
 abstract: No abstract available.
-publication: '*ISPRS International Journal of Geo-Information*, 7'
+publication: '*ISPRS International Journal of Geo-Information*'
 links:
 - name: URL
   url: https://www.mdpi.com/journal/ijgi/special%5fissues/Geospatial%5fIoT

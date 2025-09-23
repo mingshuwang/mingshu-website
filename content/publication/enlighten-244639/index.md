@@ -49,7 +49,7 @@ abstract: Conventional ways of trip planning using online reviews from multiple 
   proposed travel planning tool is not only beneficial to support customized travel
   decision-making, but also supportive for hotel managers with strategic management
   implications.
-publication: '*Applied Geography*, 78, pp. 1--11'
+publication: '*Applied Geography*'
 doi: 10.1016/j.apgeog.2016.10.002
 links:
 - name: URL

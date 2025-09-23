@@ -56,7 +56,7 @@ abstract: The prosperity of ride-sharing services has rippled in the communities
   with the notion of cities as the set of interactions across networks, as we have
   observed time-sensitive heterogeneous effects of road network structure on ride-sharing
   accessibility.
-publication: '*Computers, Environment and Urban Systems*, 80'
+publication: '*Computers, Environment and Urban Systems*'
 doi: 10.1016/j.compenvurbsys.2019.101430
 links:
 - name: URL

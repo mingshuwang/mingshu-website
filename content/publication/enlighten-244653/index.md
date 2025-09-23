@@ -31,7 +31,7 @@ publishDate: '2025-07-09T15:27:15.795959Z'
 publication_types:
 - "paper-journal"
 abstract: No abstract available.
-publication: '*EcoHealth*, 12(2), pp. 206--207'
+publication: '*EcoHealth*'
 doi: 10.1007/s10393-014-1000-5
 links:
 - name: URL

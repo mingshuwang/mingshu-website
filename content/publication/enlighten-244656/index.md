@@ -48,7 +48,7 @@ abstract: Due to the problem that current methods obtaining the weight values in
   of Cloud Models is conducive to intensive land use evaluation in a more scientific
   way, so that it will benefit the policy-making processes of Guilin Advanced Technology
   Industry Development Zone.
-publication: '*Nongye Gongcheng Xuebao = Transactions of the Chinese Society of Agricultural Engineering*, 28(10), pp. 247--252'
+publication: '*Nongye Gongcheng Xuebao = Transactions of the Chinese Society of Agricultural
   Engineering*'
 doi: 10.3969/j.issn.1002-6819.2012.10.039
 links:

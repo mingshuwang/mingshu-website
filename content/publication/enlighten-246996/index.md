@@ -47,7 +47,7 @@ abstract: Traffic congestion is an ever-increasing issue across urban environmen
   on overall congestion than rush-hour congestion. Our findings can potentially inform
   future land use planning by clarifying which urban morphologies alleviate traffic
   congestion issues.
-publication: '*Computers, Environment and Urban Systems*, 89'
+publication: '*Computers, Environment and Urban Systems*'
 doi: 10.1016/j.compenvurbsys.2021.101676
 links:
 - name: URL

@@ -52,7 +52,7 @@ abstract: Mangroves are critical in the ecological, economic and social developm
   climate change. As mangroves have been proposed as an essential component of climate
   change strategies, this study can serve as a baseline for future studies and resource
   management strategies.
-publication: '*International Journal of Digital Earth*, 10(4), pp. 457--468'
+publication: '*International Journal of Digital Earth*'
 doi: 10.1080/17538947.2016.1190411
 links:
 - name: URL

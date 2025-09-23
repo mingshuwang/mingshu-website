@@ -44,7 +44,7 @@ abstract: The recent literature on the \"consumer city\" and the \"love of varie
   are consistent with different polycentricity indices and diversity measures. Finally,
   possible explanations of the relationship between intra-urban polycentricity and
   urban amenities are provided from both the producer and consumer perspectives.
-publication: '*Environment and Planning B: Urban Analytics and City Science*, 48(3), pp. 400--416'
+publication: '*Environment and Planning B: Urban Analytics and City Science*'
 doi: 10.1177/2399808320951205
 links:
 - name: URL

@@ -50,7 +50,7 @@ abstract: Urban traffic analysis has acted an important role in the process of u
   error model generates a better fit on the dataset. Further analysis will focus on
   extend the current model with the time parameters and understand what influence
   the changes of traffic flow in the different spatio-temporal scales.
-publication: '*The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, XLIII-, pp. 537--543'
+publication: '*XXIVth ISPRS Congress*'
 doi: 10.5194/isprs-archives-XLIII-B4-2022-537-2022
 links:
 - name: URL

@@ -52,7 +52,7 @@ abstract: Despite the development of various heuristic and machine learning mode
   Office workers, Students, and Others or Jobless people, with the F1 score for identifying
   Office workers surpassing the best previously reported scores for occupation classification
   using social media data.
-publication: '*AGILE: GIScience Series*, 5'
+publication: '*AGILE: GIScience Series*'
 doi: 10.5194/agile-giss-5-36-2024
 links:
 - name: URL

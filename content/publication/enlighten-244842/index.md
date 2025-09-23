@@ -49,7 +49,7 @@ abstract: Polycentric urban development is gaining momentum in both scholarly re
   evidence, our workflow exemplifies the potential of the planning support system
   to help urban planners and governments understand their urban policy regarding urban
   polycentricity.
-publication: '*Computers, Environment and Urban Systems*, 89'
+publication: '*Computers, Environment and Urban Systems*'
 doi: 10.1016/j.compenvurbsys.2021.101677
 links:
 - name: URL

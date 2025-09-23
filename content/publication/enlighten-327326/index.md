@@ -51,7 +51,7 @@ abstract: "Urban morphology profoundly influences city planning and experiences 
   \ The insights from the clustering analysis enhance our understanding of Singapore's\
   \ exceptional urban path and offer valuable perspectives for other metropolises\
   \ navigating the complexities of urban expansion and sustainability."
-publication: '*AGILE: GIScience Series*, 5'
+publication: '*AGILE: GIScience Series*'
 doi: 10.5194/agile-giss-5-54-2024
 links:
 - name: URL

@@ -55,7 +55,7 @@ abstract: Urban functional regions (UFRs) are formed and developed with human so
   of our proposed approach for identifying UFRs at a finer scale. This work provides
   support for those who are engaged in urban planning and urban policymaking, promoting
   urban sustainable development.
-publication: '*Transactions in GIS*, 26(6), pp. 2691--2715'
+publication: '*Transactions in GIS*'
 doi: 10.1111/tgis.12979
 links:
 - name: URL
