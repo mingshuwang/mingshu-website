@@ -1,7 +1,7 @@
 ---
 title: Paper Workshop on “Organizations and Urban Inequality”
 date: 2025-09-01
-lastmod: 2025-09-01
+show_date_updated: false 
 summary: "Co-hosted a two-day paper workshop at the University of Amsterdam for our forthcoming Urban Studies Special Issue on ‘Organizations and Urban Inequality’, bringing together 15 contributions across global contexts."
 
 ---

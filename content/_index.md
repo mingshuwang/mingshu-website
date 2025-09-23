@@ -46,9 +46,6 @@ sections:
       filters:
         folders:
           - publication
-      show_date: true
-      show_date_updated: false   # ← 关闭“Last updated on …”
-      show_estimated_reading_time: false
     design:
       view: citation
       columns: '1'
