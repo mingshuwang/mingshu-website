@@ -50,7 +50,7 @@ abstract: Scholarly interest in the accessibility of ridesharing services stems 
   environment features such as buildings, vegetation, and terrains are associated
   with longer waiting times. In contrast, larger salient regions with foreground features
   are associated with shorter waiting times for several Uber service products.
-publication: '*Computers, Environment and Urban Systems*'
+publication: '*Computers, Environment and Urban Systems*, 97. https://doi.org/10.1016/j.compenvurbsys.2022.101858'
 doi: 10.1016/j.compenvurbsys.2022.101858
 links:
 - name: URL

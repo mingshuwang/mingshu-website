@@ -50,7 +50,7 @@ abstract: The Sunda Banda Seascape (SBS), located in the center of the Coral Tri
   activities in the area. In addition, the framework and methods of delineating biophysical
   environments we presented can be expanded throughout the whole Coral Triangle to
   support research and conservation activities in this important region.
-publication: '*International Journal of Environmental Research and Public Health*'
+publication: '*International Journal of Environmental Research and Public Health*, 12(2), 1069--1082. https://doi.org/10.3390/ijerph120201069'
 doi: 10.3390/ijerph120201069
 links:
 - name: URL

@@ -54,7 +54,7 @@ abstract: Graph theory effectively explains urban structures via street-street c
   This innovative integration of GCNs into urban studies demonstrates that deep learning
   techniques can analyze and comprehend the intricate patterns of street networks
   on a large scale.
-publication: '*International Journal of Geographical Information Science*'
+publication: '*International Journal of Geographical Information Science*. https://doi.org/10.1080/13658816.2024.2321229'
 doi: 10.1080/13658816.2024.2321229
 links:
 - name: URL

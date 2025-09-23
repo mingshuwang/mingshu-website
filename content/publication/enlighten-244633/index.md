@@ -48,7 +48,7 @@ abstract: "As urban tourism becomes an indispensable part of urban dynamics, tou
   \ we identify the hotspots for visitors and locals and investigate the semantic\
   \ content for reasons behind visiting specific places. Finally, we discuss our findings\
   \ and provide implications for urban planning and tourism research."
-publication: '*Cities*'
+publication: '*Cities*, 74, 249--258. https://doi.org/10.1016/j.cities.2017.12.012'
 doi: 10.1016/j.cities.2017.12.012
 links:
 - name: URL

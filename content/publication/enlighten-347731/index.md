@@ -74,7 +74,7 @@ abstract: Urban areas serve as critical habitats for numerous plant species. Exi
   distribution and potential areas of high plant diversity in various urban settings
   by integrating computational models, building data, Digital Elevation Models (DEMs),
   and land cover data.
-publication: '*Plants*'
+publication: '*Plants*, 14(4). https://doi.org/10.3390/plants14040539'
 doi: 10.3390/plants14040539
 links:
 - name: URL

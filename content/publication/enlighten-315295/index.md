@@ -55,7 +55,7 @@ abstract: This study introduces a machine learning-based framework for mapping s
   modelling of urban growth and inform sustainable, human-centric urban planning.
   The implications of this study are significant for policymakers and urban planners
   seeking to harness data-driven insights for the development of cities.
-publication: '*ISPRS International Journal of Geo-Information*'
+publication: '*ISPRS International Journal of Geo-Information*, 13(4). https://doi.org/10.3390/ijgi13040114'
 doi: 10.3390/ijgi13040114
 links:
 - name: URL

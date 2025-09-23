@@ -54,7 +54,7 @@ abstract: Urban development is shaped by demographic and socio-economic factors,
   and, for the first time, provides a nationwide quantitative assessment of how population
   density, ethnic composition, and deprivation jointly shape urban development in
   England, thereby supporting evidence-based and equitable planning and policymaking.
-publication: "Habitat International, 147(2), 101234–101245. https://doi.org/10.1016/j.habitatint.2025.101234"
+publication: '*Habitat International*, 163. https://doi.org/10.1016/j.habitatint.2025.103457'
 doi: 10.1016/j.habitatint.2025.103457
 links:
 - name: URL

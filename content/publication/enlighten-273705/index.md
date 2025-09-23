@@ -46,7 +46,7 @@ abstract: Urban challenges are increasingly framed in the context of broader obj
   connectivity needs to be understood from a multiscalar and multimodal perspective
   and provide a baseline against which the impact of future interventions aimed at
   enhancing city connectivity/regional integration can be examined.
-publication: '*Applied Geography*'
+publication: '*Applied Geography*, 145. https://doi.org/10.1016/j.apgeog.2022.102754'
 doi: 10.1016/j.apgeog.2022.102754
 links:
 - name: URL

@@ -48,7 +48,7 @@ abstract: This study uses building footprint data from the Ordnance Survey Maste
   footprint data in providing insights into urban changes and development trajectories,
   which are vital for urban planners and policymakers to understand dynamic urban
   processes and inform decision-making toward sustainable urban development.
-publication: '*Environment and Planning B: Urban Analytics and City Science*'
+publication: '*Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083251317573'
 doi: 10.1177/23998083251317573
 links:
 - name: URL

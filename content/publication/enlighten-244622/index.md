@@ -45,7 +45,7 @@ abstract: This paper analyzes the relationship between urban form, shrinking cit
   with less energy efficient than their growing counterparts, suggesting that these
   cities may not only be 'battling' with shrinking populations and economies but also
   need to consider the environmental issues.
-publication: '*Applied Energy*'
+publication: '*Applied Energy*, 261. https://doi.org/10.1016/j.apenergy.2019.114409'
 doi: 10.1016/j.apenergy.2019.114409
 links:
 - name: URL

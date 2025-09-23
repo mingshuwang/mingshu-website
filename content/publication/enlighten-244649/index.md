@@ -48,7 +48,7 @@ abstract: Universities are where innovations, face-to-face interactions and soci
   volume to major roads and delineates the transit trips of students from each campus.
   The results indicate that there exist only weak ties and little movement between
   the top universities and the most disadvantaged areas.
-publication: '*Regional Studies, Regional Science*'
+publication: '*Regional Studies, Regional Science*, 3(1), 202--206. https://doi.org/10.1080/21681376.2016.1154798'
 doi: 10.1080/21681376.2016.1154798
 links:
 - name: URL

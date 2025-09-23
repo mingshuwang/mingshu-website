@@ -54,7 +54,7 @@ abstract: Studies on polycentric urban development (PUD) have been done by using
   were equal to 89.79% and 91.67%, 100% and 100%, 88.64% and 94.06%, respectively.
   We conclude that Sentinel-1 SAR images are suited to PUD applications at an intra-city
   scale with a high spatio-temporal resolution.
-publication: '*International Journal of Applied Earth Observation and Geoinformation*'
+publication: '*International Journal of Applied Earth Observation and Geoinformation*, 121. https://doi.org/10.1016/j.jag.2023.103340'
 doi: 10.1016/j.jag.2023.103340
 links:
 - name: URL

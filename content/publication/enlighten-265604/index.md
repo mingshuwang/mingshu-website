@@ -54,7 +54,7 @@ abstract: 'In urban transportation systems, taxis are regarded as flexible, conv
   reveals the complex nature of taxi ridership and has important implications for
   policymakers, transport planners, and other stakeholders in megacities around the
   world.'
-publication: '*Cities*'
+publication: '*Cities*, 125. https://doi.org/10.1016/j.cities.2022.103637'
 doi: 10.1016/j.cities.2022.103637
 links:
 - name: URL

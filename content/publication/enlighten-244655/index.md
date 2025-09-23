@@ -51,7 +51,7 @@ abstract: When we examine the National Land Cover Database 2006 (NLCD 2006) in a
   is not due to mapping error or uncertainty. The case study also proves that See5
   algorithm performs very well to extract the learned knowledge. The procedure that
   we propose with NLCD can be applied to other environmental monitoring purpose.
-publication: '*Annals of GIS*'
+publication: '*Annals of GIS*, 20(3), 169--180. https://doi.org/10.1080/19475683.2014.942364'
 doi: 10.1080/19475683.2014.942364
 links:
 - name: URL

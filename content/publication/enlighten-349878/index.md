@@ -51,7 +51,7 @@ abstract: The urban form is a foundational element in urban analytics, planning,
   cultural, historical, and spatial contexts. By identifying city-specific, multi-scalar
   patterns, this framework offers a powerful framework for urban planning and design,
   allowing practitioners to develop adaptable and context-sensitive strategies.
-publication: '*Cities*'
+publication: '*Cities*, 161. https://doi.org/10.1016/j.cities.2025.105854'
 doi: 10.1016/j.cities.2025.105854
 links:
 - name: URL

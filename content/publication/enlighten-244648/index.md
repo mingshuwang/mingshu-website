@@ -35,7 +35,7 @@ abstract: 'Location Is (Still) Everything: The Surprising Influence of the Real 
   on How We Search, Shop, and Sell in the Virtual One David R. Bell. New Harvest,
   distributed by Houghton Mifflin Harcourt, Boston, MA, July 15, 2014. 240pp.; maps,
   diagrs., photos, bibliog., and index. $26.00 cloth. (ISBN 978-0-544-26227-0).'
-publication: '*Southeastern Geographer*'
+publication: '*Southeastern Geographer*, 56(4), 476--477. https://doi.org/10.1353/sgo.2016.0048'
 doi: 10.1353/sgo.2016.0048
 links:
 - name: URL

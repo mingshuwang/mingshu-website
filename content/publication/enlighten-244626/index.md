@@ -53,7 +53,7 @@ abstract: The exact location of objects, such as infrastructure, is crucial to t
   the effectiveness and advantages of the proposed method for the localization and
   noise mitigation in a large area. The proposed scheme has potential applications
   for location-based services in smart cities.
-publication: '*Sensors*'
+publication: '*Sensors*, 19(9). https://doi.org/10.3390/s19092143'
 doi: 10.3390/s19092143
 links:
 - name: URL

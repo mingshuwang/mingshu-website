@@ -57,7 +57,7 @@ abstract: The considerable gap between urban and rural areas in China has been o
   land scale on the relationship between urbanization and URIG. In the urbanization
   process, policymakers need to pay attention to the practice of remedying income-based
   urban-rural inequality.
-publication: '*Land Use Policy*'
+publication: '*Land Use Policy*, 99. https://doi.org/10.1016/j.landusepol.2020.104995'
 doi: 10.1016/j.landusepol.2020.104995
 links:
 - name: URL

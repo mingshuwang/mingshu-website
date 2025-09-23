@@ -47,7 +47,7 @@ abstract: Carbon dioxide (CO2) emissions from fossil-fuel combustion are a globa
   empirical models were developed to reconcile EDGAR and FFDAS with CHRED at both
   province and prefectural levels to facilitate future longitudinal studies of CO2
   emissions in China.
-publication: '*Journal of Cleaner Production*'
+publication: '*Journal of Cleaner Production*, 148, 194--201. https://doi.org/10.1016/j.jclepro.2017.02.003'
 doi: 10.1016/j.jclepro.2017.02.003
 links:
 - name: URL

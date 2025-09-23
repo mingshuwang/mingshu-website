@@ -62,7 +62,7 @@ abstract: 'Industrial regions and relevant infrastructures are known to contribu
   with the topographical features of the region. The methods proposed in this study
   can serve as a reliable framework for analysing the air quality of industrial regions
   and can also, supplement future studies on emissions reduction in industrial parks.'
-publication: '*International Journal of Applied Earth Observation and Geoinformation*'
+publication: '*International Journal of Applied Earth Observation and Geoinformation*, 117. https://doi.org/10.1016/j.jag.2023.103221'
 doi: 10.1016/j.jag.2023.103221
 links:
 - name: URL

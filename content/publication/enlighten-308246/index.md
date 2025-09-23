@@ -54,7 +54,7 @@ abstract: Glasgow, Scotland, United Kingdom, has long-term issues with inequalit
   research shows that converting vacant and derelict land in Glasgow into urban agriculture
   projects could both help with the city's problem of vacant and derelict land and
   bring many potential benefits to local communities.
-publication: '*International Journal of Applied Earth Observation and Geoinformation*'
+publication: '*International Journal of Applied Earth Observation and Geoinformation*, 124. https://doi.org/10.1016/j.jag.2023.103525'
 doi: 10.1016/j.jag.2023.103525
 links:
 - name: URL

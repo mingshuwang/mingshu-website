@@ -58,7 +58,7 @@ abstract: Master plans are pivotal in strategising urban development, dictating 
   and socioeconomic indicators to comprehensively evaluate urban development strategies.
   This study contributes to understanding urban spatial structure and offers practical
   insights for future urban planning.
-publication: '*Environment and Planning B: Urban Analytics and City Science*'
+publication: '*Environment and Planning B: Urban Analytics and City Science*, 52(4), 789--803. https://doi.org/10.1177/23998083241267070'
 doi: 10.1177/23998083241267070
 links:
 - name: URL

@@ -53,7 +53,7 @@ abstract: Urban traffic analysis has played an important role in urban developme
   With the influence of COVID-19, there has been a significant decrease in long-distance
   travel. The noticeable change in travel behaviour presents a valuable opportunity
   to encourage active travel in the near future.
-publication: '*Cities*'
+publication: '*Cities*, 154. https://doi.org/10.1016/j.cities.2024.105381'
 doi: 10.1016/j.cities.2024.105381
 links:
 - name: URL

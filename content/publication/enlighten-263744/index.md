@@ -72,7 +72,7 @@ abstract: "The European Union (EU) Commission's whitepaper on Artificial Intelli
   \ to the technical and methodological open questions regarding the development and\
   \ assessment of human-AI co-action aiming for a sustainable AI diffusion in the\
   \ society."
-publication: '*AI and Society*'
+publication: '*AI and Society*, 38(4), 1465--1484. https://doi.org/10.1007/s00146-021-01383-x'
 doi: 10.1007/s00146-021-01383-x
 links:
 - name: URL

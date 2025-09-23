@@ -50,7 +50,7 @@ abstract: Developing countries tend to exhibit evident urban-rural income diverg
   relationship between urban expansion and the urban-rural income gap. Our results
   entail suggestions for improved urban-rural development policies aimed toward greater
   integration and efficiency in urban expansion.
-publication: '*Cities*'
+publication: '*Cities*, 129. https://doi.org/10.1016/j.cities.2022.103831'
 doi: 10.1016/j.cities.2022.103831
 links:
 - name: URL

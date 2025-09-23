@@ -31,7 +31,7 @@ publishDate: '2025-07-09T15:27:13.792800Z'
 publication_types:
 - "paper-journal"
 abstract: No abstract available.
-publication: '*Environment and Planning A*'
+publication: '*Environment and Planning A*, 48(3), 455--457. https://doi.org/10.1177/0308518X15604760'
 doi: 10.1177/0308518X15604760
 links:
 - name: URL

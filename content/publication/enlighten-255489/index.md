@@ -52,7 +52,7 @@ abstract: The conservation of historical heritage can bring social benefits to c
   derived from big geospatial data. This study also extends the understanding of forms
   of heritage areas and provides theoretical support for heritage conservation, urban
   construction, and economic development.
-publication: '*Computers, Environment and Urban Systems*'
+publication: '*Computers, Environment and Urban Systems*, 91. https://doi.org/10.1016/j.compenvurbsys.2021.101716'
 doi: 10.1016/j.compenvurbsys.2021.101716
 links:
 - name: URL

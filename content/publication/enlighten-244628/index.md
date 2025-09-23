@@ -46,7 +46,7 @@ abstract: Customer online reviews of hotels have significant business value in t
   their overall satisfaction. We provide implications for hoteliers to better understand
   customer online review behavior and implement efficient online review management
   actions to use electronic word of mouth and enhance hotels' performance.
-publication: '*International Journal of Hospitality Management*'
+publication: '*International Journal of Hospitality Management*, 76(Part A), 111--121. https://doi.org/10.1016/j.ijhm.2018.03.017'
 doi: 10.1016/j.ijhm.2018.03.017
 links:
 - name: URL

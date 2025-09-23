@@ -44,7 +44,7 @@ abstract: 'In the past decades, there has been a resurgence of public bike-shari
   measures. Post-hoc analysis reveals that BSSs have a significant positive effect
   on reducing rush-hour congestion. Finally, implications, limitations, and future
   work directions are offered.'
-publication: '*Journal of Transport Geography*'
+publication: '*Journal of Transport Geography*, 65, 147--154. https://doi.org/10.1016/j.jtrangeo.2017.10.022'
 doi: 10.1016/j.jtrangeo.2017.10.022
 links:
 - name: URL

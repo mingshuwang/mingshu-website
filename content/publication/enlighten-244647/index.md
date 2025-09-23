@@ -44,7 +44,7 @@ abstract: Despite much insightful work on polycentric urban development in China
   associated positively with high polycentricity in Eastern China. Furthermore, our
   analysis suggests that the development of multiple (sub)centers in a number of cities
   (e.g., Shanghai and Tianjin) is relatively consistent with their master plans.
-publication: '*Landscape and Urban Planning*'
+publication: '*Landscape and Urban Planning*, 151, 10--20. https://doi.org/10.1016/j.landurbplan.2016.03.007'
 doi: 10.1016/j.landurbplan.2016.03.007
 links:
 - name: URL

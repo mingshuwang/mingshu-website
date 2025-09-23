@@ -51,7 +51,7 @@ abstract: "In recent years, much research has been devoted to developing appropr
   \ of the degree of morphological polycentricity in Polish NUTS-3 areas and the Chinese\
   \ city-regions along the 'Yangtze Economic Belt' are included. Finally, suggestions\
   \ are provided to facilitate future comparative analyses of PUD."
-publication: '*Cities*'
+publication: '*Cities*, 111. https://doi.org/10.1016/j.cities.2020.103009'
 doi: 10.1016/j.cities.2020.103009
 links:
 - name: URL

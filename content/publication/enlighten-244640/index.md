@@ -43,7 +43,7 @@ abstract: Unlike the data from traditional sources, there have not been standard
   Through a case study of Beijing, it demonstrates the usefulness of the framework.
   Additionally, it utilizes smart card data to delineate characteristics of subcenters
   defined by bus commuters of Beijing.
-publication: '*International Review for Spatial Planning and Sustainable Development*'
+publication: '*International Review for Spatial Planning and Sustainable Development*, 5(3), 100--115. https://doi.org/10.14246/irspsd.5.3_100'
 doi: 10.14246/irspsd.5.3_100
 links:
 - name: URL
