@@ -49,7 +49,7 @@ abstract: Modeling geospatial tabular data with deep learning has become a promi
   making it both scalable and lightweight. Moreover, ablation experiments offer insights
   into the effectiveness of the Gaussian bias and Cartesian attention mechanism, providing
   recommendations for further optimizing the GeoAggregator's performance.
-publication: "*39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)*"
+publication: "*39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)*, (pp. 11572–11580). AAAI Press. https://doi.org/10.1609/aaai.v39i11.33259"
 doi: 10.1609/aaai.v39i11.33259
 links:
 - name: URL

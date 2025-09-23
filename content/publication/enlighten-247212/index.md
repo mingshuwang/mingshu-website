@@ -118,7 +118,7 @@ abstract: Recent developments for acquiring and distributing remotely-sensed dat
   involving recent advances in image acquisition and availability, are presented for
   generating 3D surfaces from multiple images using Structure from Motion (SfM); processing
   of very large datasets (Big Data); and processing of images in the cloud are presented.
-publication: '*Manual of Remote Sensing, 4th Edition*'
+publication: '*Manual of Remote Sensing* (4th ed., pp. 631–868). American Society for Photogrammetry and Remote Sensing. https://doi.org/10.14358/MRS/Chapter7'
 doi: 10.14358/MRS/Chapter7
 links:
 - name: URL
