@@ -41,7 +41,6 @@ abstract: In resonance with the popularity of user-generated contents (UGC) and 
   and consequences of such phenomena. These results have implications in marketing
   and management strategies.
 publication: '*International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, XLI-B2, 573--576. https://doi.org/10.5194/isprs-archives-xli-b2-573-2016'
-  Information Sciences*'
 doi: 10.5194/isprs-archives-xli-b2-573-2016
 links:
 - name: URL
