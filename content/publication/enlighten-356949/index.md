@@ -5,14 +5,24 @@ title: "An Academy of Nations? The enduring Eurocentrism of the Best Internation
 subtitle: ''
 summary: ''
 authors:
-- Sam McMillan
-- Xinyi Yuan
+- Yaya Song
+- Xianjin Huang
+- Qianjing Li 
+- Xinxian Qi 
+- Rui Sun
 - Mingshu Wang
 
+tags:
+- Telecoupling
+- Land footprint
+- Virtual land
+- Driving factors
+- Multi-regional input-output
+- Structural decomposition analysis
 
 categories: []
-date: '2025-09-24'
-lastmod: 2025-9-24T16:26:29+01:00
+date: '2025-11-01'
+lastmod: 2025-11-01T16:26:29+01:00
 featured: false
 draft: false
 
@@ -30,13 +40,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-09-24T15:26:21.319346Z'
+publishDate: '2025-01-11T15:26:21.319346Z'
 publication_types:
 - "paper-journal"
-abstract: Although the Academy Award for Best International Feature Film is often promoted as a celebration of world cinema, its record tells a different story. By mapping every nomination and win since the category adopted a competitive format in 1956, this study exposes a sharp geographic imbalance. A proportional-symbol cartogram shows Europe ballooning to dominate the visual field, while much of the Global South, especially Africa, nearly disappears. Four of the five most-honoured countries are European, together with Japan accounting for more than half of all victories. This pattern is interpreted as a geographic expression of cultural hegemony, explained partly by the theory of ‘cultural proximity’, where Academy voters may gravitate towards narratives reflecting familiar cultural values. The cartogram thus visualizes more than just awards; it depicts a durable geography of cultural influence. }
-publication: '*Environment and Planning B: Urban Analytics and City Science*. https://doi.org/10.1177/23998083251381497'
-doi: 10.1177/23998083251381497
+abstract: Understanding land use dynamics through the lens of interregional interactions is critical to achieving sustainable territorial development in an increasingly interconnected world. However, most existing studies remain confined to administrative units, failing to systematically account for the spatial decoupling between land consumption and production. This study integrates a multi-regional input-output (MRIO) model with structural decomposition analysis (SDA) to investigate the spatiotemporal characteristics and driving forces of land use in China from 2002 to 2017. By constructing a detailed mapping between economic sectors and land use categories, we trace the intensity, direction, and scale of land flows embedded in domestic trade. The share of interregional land transfers rose markedly from 22.3 % in 2002 to 57.4 % in 2017, revealing a growing reliance on extra-local land resources. The results demonstrate that while China's total land footprint expanded substantially, disparities in land use efficiency and regional dependency have intensified. Coastal provinces increasingly depend on external land through consumption-driven demand, while inland regions serve as net land exporters via resource- and land-intensive production. Technological improvements on the supply side significantly reduced land-use intensity; however, they were outweighed by the expansionary effects of economic growth and structural shifts in final demand. This study contributes methodologically by enhancing the telecoupling framework to incorporate virtual land flows within domestic trade, thereby providing a more nuanced understanding of land use dynamics that extend beyond administrative boundaries. The findings offer policy insights into optimizing the spatial allocation of land resources and guiding differentiated land governance in China and other rapidly urbanizing economies.
+publication: '*Land Use Policy*, 158, 107709. https://doi.org/10.1016/j.landusepol.2025.107709'
+doi: 10.1016/j.landusepol.2025.107709
 links:
 - name: URL
-  url: https://doi.org/10.1177/23998083251381497
+  url: https://eprints.gla.ac.uk/360845/
 ---
