@@ -66,4 +66,3 @@ user_groups:
 ---
 
 I am a PhD student in Geospatial Data Science within the team at the University of Glasgow, having joined in Fall 2022. Prior to this, I earned my MEng in Urban Planning from Southeast University (China) and my BEng in Urban Planning from Chongqing University (China). My current research focuses on the application of Explainable Artificial Intelligence (XAI) in cities and society. I’m also interested in development and application of spatial analysis tools. My research focuses on the application of Explainable AI (XAI) in urban and social studies. My current studies leverages building footprint data and Explainable AI to investigates how and to what extent neighbourhood-scale urban morphology influences residential energy consumption across England.
-test
