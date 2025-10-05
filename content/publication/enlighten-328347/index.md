@@ -1,8 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "\\\"Local hubs and global gateways\\\": understanding the impact of Singapore's\
-  \ master plan on urban polycentricity"
+title: "'Local hubs and global gateways': understanding the impact of Singapore's master plan on urban polycentricity"
 subtitle: ''
 summary: ''
 authors:
