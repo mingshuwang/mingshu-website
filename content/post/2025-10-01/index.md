@@ -5,7 +5,7 @@ summary: "We warmly welcome HKU PhD student Quang Cuong Doan as a Visiting PhD S
 
 ---
 
-We are delighted to welcome Mr. [Quang Cuong Doan](https://mingshuwang.org/author/quang-cuong-doan/), a PhD student from the Department of Urban Planning and Design at the University of Hong Kong (HKU), as a Visiting PhD Student at the University of Glasgow.
+We are delighted to welcome [Mr. Quang Cuong Doan](https://mingshuwang.org/author/quang-cuong-doan/), a PhD student from the Department of Urban Planning and Design at the University of Hong Kong (HKU), as a Visiting PhD Student at the University of Glasgow.
 
 HKU and the University of Glasgow are strategic partners with a strong record of collaboration in research and education. This visit builds upon connections established through the Early Career Mobility Scheme ([ECMS](https://www.gla.ac.uk/explore/internationalisation/funding/earlycareermobilityscheme/))
 , which Dr. Mingshu Wang undertook in 2022 to visit HKU’s Department of Urban Planning and Design.
