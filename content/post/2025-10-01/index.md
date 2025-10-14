@@ -2,7 +2,7 @@
 title: Welcome Mr. Quang Cuong Doan as Visiting PhD Student from HKU
 date: 2025-10-01
 summary: "We warmly welcome HKU PhD student Quang Cuong Doan as a Visiting PhD Student, who will collaborate with Dr. Mingshu Wang on geospatial data science and urban vitality, further strengthening research ties between HKU and the University of Glasgow."
-authors: ["Mingshu Wang", "Quang Cuong Doan"]
+#authors: ["Mingshu Wang", "Quang Cuong Doan"]
 ---
 
 We are delighted to welcome [Mr. Quang Cuong Doan](https://mingshuwang.org/author/quang-cuong-doan/), a PhD student from the Department of Urban Planning and Design at the University of Hong Kong (HKU), as a Visiting PhD Student at the University of Glasgow.
