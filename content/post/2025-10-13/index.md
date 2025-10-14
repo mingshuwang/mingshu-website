@@ -1,6 +1,8 @@
 ---
 title: Appointment as Associate Editor of Applied Spatial Analysis and Policy
 date: 2025-10-13
+image:
+   focal_point: center
 summary: "Dr. Mingshu Wang is appointed Associate Editor of Springer's Applied Spatial Analysis and Policy, helping shape the journal’s direction with a focus on GeoAI, urban analytics, and geospatial data science."
 
 ---
