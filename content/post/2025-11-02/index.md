@@ -1,5 +1,5 @@
 ---
-title: Paper Workshop on “Organizations and Urban Inequality”
+title: PhD Student Rui Deng Presents at ACM SIGSPATIAL 2025 GeoAI Workshop
 date: 2025-11-02
 summary: "Co-hosted a two-day paper workshop at the University of Amsterdam for our forthcoming Urban Studies Special Issue on ‘Organizations and Urban Inequality’, bringing together 15 contributions across global contexts."
 
