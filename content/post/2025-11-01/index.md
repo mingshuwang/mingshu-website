@@ -1,5 +1,5 @@
 ---
-title: Paper Workshop on “Organizations and Urban Inequality
+title: PhD Students Xinyi Yuan and Rui Deng Visit Florida State University
 date: 2025-11-01
 summary: "Co-hosted a two-day paper workshop at the University of Amsterdam for our forthcoming Urban Studies Special Issue on ‘Organizations and Urban Inequality’, bringing together 15 contributions across global contexts."
 
