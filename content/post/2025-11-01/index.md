@@ -5,7 +5,7 @@ summary: "PhD students Xinyi Yuan and Rui Deng recently visited Florida State Un
 
 ---
 
-PhD students Xinyi Yuan and Rui Deng from Dr. Mingshu Wang’s research group recently completed a research visit to Florida State University (FSU), hosted by Dr. Ziqi Li at the [Department of Geography](https://cosspp.fsu.edu/geography/faculty/ziqi-li/). Both students are co-supervised by Dr. Wang and Dr. Li.
+PhD students [Xinyi Yuan](https://mingshuwang.org/author/xinyi-yuan/) and [Rui Deng](https://mingshuwang.org/author/rui-deng/) from Dr. Mingshu Wang’s research group recently completed a research visit to Florida State University (FSU), hosted by Dr. Ziqi Li at the [Department of Geography](https://cosspp.fsu.edu/geography/faculty/ziqi-li/). Both students are co-supervised by Dr. Wang and Dr. Li.
 
 During their visit, they took part in a Research Exchange Workshop organised by Dr. Li, where they presented their latest work to faculty and graduate students at [FSU’s Spatial Data Science Center](https://cosspp.fsu.edu/sdsc/).
 
