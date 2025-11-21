@@ -1,6 +1,6 @@
 ---
 title: Dr. Mingshu Wang Named to the Inaugural UK GEO100
-date: 2025-11-03
+date: 2025-11-19
 summary: "Mingshu Wang has been selected for the inaugural UK GEO100, a national list recognising 100 leaders shaping the future of geospatial science across the UK."
 
 ---
