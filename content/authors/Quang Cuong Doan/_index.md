@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Alumni
 ---
 
 Quang Cuong Doan is a Ph.D. candidate in the Department of Urban Planning and Design at The University of Hong Kong. He holds both a Bachelor’s and a Master’s degree in Land Management from Vietnam National University, Hanoi. Before pursuing his doctoral studies, he served as a lecturer at the Faculty of Geography, Vietnam National University (2018–2022). His research examines urban vitality and transit-oriented development in developing countries, combining geospatial analysis and machine learning with causal inference approaches.
