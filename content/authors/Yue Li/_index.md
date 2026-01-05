@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher
+role: PhD Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  -  Current Students
 ---
 
 Yue Li is currently a Ph.D. candidate in Urban Studies at the University of Glasgow, based at the Urban Big Data Centre (UBDC) within the School of Social and Political Sciences. She began her doctoral research in 2021, focusing on urban mobility, spatial data science, and time-series analysis. Prior to joining the University of Glasgow, she obtained an M.Sc. in Spatio-Temporal Analytics and Big Data Mining from University College London in 2019 and a B.Sc. in Environmental Science from Beijing Normal University in 2018.

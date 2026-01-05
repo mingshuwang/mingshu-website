@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yue Li (UvA)
+title: Yue Li(UvA)
 
 # Full name (for SEO)
 first_name: Yue
-last_name: Li (UvA)
+last_name: Li(UvA)
 
 # Username (this should match the folder name)
 authors:
-  - Yue Li (UvA)
+  - Yue Li(UvA)
   
 # Is this the primary user of the site?
 superuser: false
@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  -  Current Students
 ---
 
 I began my PhD studies in 2022 at the Amsterdam Institute for Social Science Research, University of Amsterdam. Prior to this, I earned a Master’s degree in Landscape Architecture from South China University of Technology and a Bachelor’s degree in Agriculture (Landscape Architecture) from Nanjing Forestry University. I also have two years of experience as an assistant designer in an architecture firm, working on commercial street design, resort design, and cultural tourism planning.
