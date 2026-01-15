@@ -65,4 +65,4 @@ user_groups:
   - Current Students
 ---
 
-rrent research focuses on the application of Geographic Information Systems and urban big data in spatial optimization. I am dedicated to exploring the intersection of GIS technology and urban dynamics, aiming to contribute valuable insights to the field of geospatial data science.
+Xinyan Xian is currently pursuing the Ph.D. degree in Geospatial Data Science at the University of Glasgow. Her research integrates geographic information systems and urban big data to understand urban dynamics. She is interested in the built environment, advanced air mobility, and spatial optimization. In parallel, she conducts global comparative research on unmanned aerial vehicle (UAV) policy, focusing on regulatory adoption and the emergence of governance frameworks for drone delivery.
