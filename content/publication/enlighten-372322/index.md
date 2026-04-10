@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Black Holes and Prisonsers: Understanding AS112 Deployment Characteristics
+title: "Black Holes and Prisoners: Understanding AS112 Deployment Characteristics"
 subtitle: ''
 summary: ''
 authors:
