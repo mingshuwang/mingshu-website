@@ -1,6 +1,8 @@
 ---
 title: Invited PAM 2026 Conference Paper on AS112 Deployment Characteristics
 date: 2026-03-10
+image:
+  preview_only: true
 summary: "We contributed to a PAM 2026 paper on the global deployment and performance of AS112."
 
 ---
