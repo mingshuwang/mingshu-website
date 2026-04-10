@@ -44,6 +44,7 @@ abstract: This short paper improves GeoAggregator, a Transformer-based deep lear
   with the original implementation, while the explanation results demonstrate that
   the model can effectively capture inherent spatial effects.
 publication: "*The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI '25)*. ACM, New York, NY, USA. https://doi.org/10.1145/3764912.3770843"
+doi: 10.1145/3764912.3770843
 links:
 - name: URL
   url: https://doi.org/10.1145/3764912.3770843

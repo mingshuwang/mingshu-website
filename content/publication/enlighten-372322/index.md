@@ -48,6 +48,7 @@ abstract: AS112 is a distributed, volunteer-run, anycast DNS service that acts a
   than the root, while also revealing its dependence on a small number of large
   operators.
 publication: '*Passive and Active Measurement (PAM 2026)*. Springer Nature Switzerland. https://link.springer.com/chapter/10.1007/978-3-032-18268-5_9'
+doi: 10.1007/978-3-032-18268-5_9
 links:
 - name: URL
   url: https://link.springer.com/chapter/10.1007/978-3-032-18268-5_9
