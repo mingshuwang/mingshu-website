@@ -10,12 +10,6 @@ authors:
 - Mingshu Wang
 - Stephen McQuistin
 - Colin Perkins
-tags:
-- AS112
-- DNS
-- anycast
-- Internet measurement
-- network infrastructure
 categories: []
 date: '2026-03-10'
 lastmod: 2026-03-10T00:00:00+00:00

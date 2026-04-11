@@ -9,10 +9,9 @@ authors:
 - Ziqi Li
 - Mingshu Wang
 tags:
-- GeoAggregator
 - geospatial tabular data
-- explainable AI
-- computational efficiency
+- transformer
+- spatial regression
 categories: []
 date: '2025-11-03'
 lastmod: 2026-04-10T00:00:00+00:00
