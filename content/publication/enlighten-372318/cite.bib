@@ -1,14 +1,15 @@
-@inproceedings{deng2025geaggregator,
+@inproceedings{10.1145/3764912.3770843,
   author = {Deng, Rui and Li, Ziqi and Wang, Mingshu},
   title = {Improving the Computational Efficiency and Explainability of GeoAggregator},
   year = {2025},
-  booktitle = {The 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI '25)},
+  isbn = {9798400721793},
+  booktitle = {Proceedings of the 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery},
   address = {Minneapolis, MN, USA},
-  publisher = {ACM},
+  publisher = {Association for Computing Machinery},
   pages = {120--123},
   numpages = {4},
   doi = {10.1145/3764912.3770843},
   url = {https://doi.org/10.1145/3764912.3770843},
-  abstract = {Accurate modeling and explaining geospatial tabular data (GTD) are critical for understanding geospatial phenomena and their underlying processes. Recent work has proposed a novel transformer-based deep learning model named GeoAggregator (GA) for this purpose, and has demonstrated that it outperforms other statistical and machine learning approaches. In this short paper, we further improve GA by 1) developing an optimized pipeline that accelerates the dataloading process and streamlines the forward pass of GA to achieve better computational efficiency; and 2) incorporating a model ensembling strategy and a post-hoc model explanation function based on the GeoShapley framework to enhance model explainability. We validate the functionality and efficiency of the proposed strategies by applying the improved GA model to synthetic datasets. Experimental results show that our implementation improves the prediction accuracy and inference speed of GA compared to the original implementation. Moreover, explanation experiments indicate that GA can effectively captures the inherent spatial effects in the designed synthetic dataset. The complete pipeline has been made publicly available for community use.},
-  keywords = {GeoAggregator, geospatial tabular data, explainable AI, computational efficiency}
+  abstract = {Accurate modeling and explaining geospatial tabular data (GTD) are critical for understanding geospatial phenomena and their underlying processes. Recent work has proposed a novel Transformer-based deep learning model named GeoAggregator (GA) for this purpose, and has demonstrated that it outperforms other statistical and machine learning approaches. In this short paper, we further improve GA by 1) developing an optimized pipeline that accelerates the data-loading process and streamlines the forward pass of GA to achieve better computational efficiency; 2) incorporating a model ensembling strategy to enhance the performance; and 3) implementing a post-hoc model explanation function based on GeoShapley. We validate the functionality and efficiency of the proposed pipeline by applying the improved GA model to 8 synthetic datasets. Experimental results show that our implementation improves the prediction accuracy and inference speed of GA compared to the original implementation. Moreover, explanation experiments indicate that GA can effectively captures the inherent spatial effects in the designed synthetic dataset. The complete pipeline has been made publicly available for community use (https://github.com/ruid7181/GA-sklearn).},
+  keywords = {geospatial tabular data, transformer, spatial regression}
 }
