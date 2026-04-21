@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Members
 ---
 
 Xinyan Xian is currently pursuing the Ph.D. degree in Geospatial Data Science at the University of Glasgow. Her research integrates geographic information systems and urban big data to understand urban dynamics. She is interested in the built environment, advanced air mobility, and spatial optimization. In parallel, she conducts global comparative research on unmanned aerial vehicle (UAV) policy, focusing on regulatory adoption and the emergence of governance frameworks for drone delivery.

@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Members
 ---
 
 I am a PhD candidate in Geospatial Data Science at the University of Glasgow. My research investigates how housing and employment patterns interact to shape the spatial structure, efficiency, and equity of cities. Drawing on spatial economics, urban geography, and computational methods, I examine how urban systems operate and evolve in response to digital transformation and socioeconomic change. I work with large-scale datasets—from rental listings to job advertisements—using geospatial analysis, machine learning, and text data to examine spatial inequalities, economic clustering, and the role of language and technology in urban processes. Broadly, my work aims to generate data-driven insights that support more just, efficient, and adaptive approaches to urban planning and regional development.

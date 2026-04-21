@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Members
 ---
 
 I obtained my master's degree in Cartography and Geographic Information System from the University of Chinese Academy of Sciences and bachelor's degree in Space Science and Technology from Shandong University, China. My research experience includes remote sensing image processing and GeoAI for urban functional area understanding. My current work focuses on developing efficient and explainable models for processing geospatial data.
