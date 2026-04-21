@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Members
 ---
 
 Cheng Wang is an associate professor and master's supervisor at the School of Economics and Management, Anhui Agricultural University, where he also serves as the director of the Land Resource Management Department. He obtained his Ph.D. in Science from Nanjing Normal University in 2021. His research focuses on land information technology, wetland ecology, and biodiversity conservation. He has presided over several research projects, including grants from the National Natural Science Foundation of China, and has published over 40 papers in journals such as Journal of Cleaner Production, Land Use Policy, and Geographical Research. He serves as a youth editorial board member for journals including Journal of Ecology.
