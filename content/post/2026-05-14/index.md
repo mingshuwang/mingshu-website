@@ -1,6 +1,8 @@
 ---
 title: Dr Mingshu Wang selected for national DAFNI Fellowship
 date: 2026-05-14
+image:
+   focal_point: top
 summary: "Dr Mingshu Wang has been named a DAFNI Fellow to develop GeoAI tools for UK infrastructure analysis. His work will support more transparent, reusable, and evidence-based infrastructure decision-making."
 
 ---
