@@ -1,5 +1,5 @@
 ---
-title: Dr Mingshu Wang selected for national DAFNI Fellowship
+title: Dr. Mingshu Wang selected for national DAFNI Fellowship
 date: 2026-05-14
 image:
    focal_point: top
