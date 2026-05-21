@@ -1,21 +1,22 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Scotland’s twin referendums: revealing regional divides behind national votes"
+title: "Zero-shot traffic flow prediction with foundation models: a comparison with deep learning approaches"
 subtitle: ''
 summary: ''
 authors:
-- Craig Stewart
-- Xinyi Yuan
+- Yue Li
+- Qunshan Zhao
 - Mingshu Wang
 tags:
-- Electoral geography
-- regional political geography
-- population-weighted cartogram
-- Scotland
+- Traffic flow prediction
+- foundation models
+- zero-shot prediction
+- deep learning
+- time-series prediction
 categories: []
-date: '2026-03-16'
-lastmod: 2026-03-17T09:47:00+00:00
+date: '2026-05-04'
+lastmod: 2026-05-04T00:00:00+00:00
 featured: false
 draft: false
 
@@ -28,13 +29,13 @@ image:
   preview_only: false
 
 projects: []
-publishDate: '2026-03-16T00:00:00Z'
+publishDate: '2026-05-04T00:00:00Z'
 publication_types:
 - "Paper-Journal"
-abstract: Scotland’s 2014 independence referendum and the 2016 EU referendum are often interpreted as politically aligned at the national scale, reinforcing a simplified narrative of a strongly pro-independence, pro-EU portion of the Scottish electorate. This regional graphic challenges that view using a bivariate, population-weighted cartogram that jointly visualises both votes across parliamentary constituencies. By correcting for uneven population distributions and revealing sub-regional variation, the graphic exposes multi-scalar political cleavages within cities, regions and economic hinterlands. The visualisation demonstrates how national aggregates obscure regional political heterogeneity and highlights the value of spatially explicit graphics for interpreting constitutional and electoral change.
-publication: '*Regional Studies, Regional Science*, 13(1), 2637381. https://doi.org/10.1080/21681376.2026.2637381'
-doi: 10.1080/21681376.2026.2637381
+abstract: Traffic flow prediction plays an important role in managing urban transportation systems, helping to reduce congestion and improve road safety. Although existing deep learning models improve their predictive accuracy with complex architectures, they require large datasets for task-specific training. Recently, the rapidly developed foundation models have shown outstanding performance in time series prediction. Motivated by the development, we apply two foundation models, Lag-Llama and Chronos, for zero-shot traffic flow prediction and compare their accuracy with that of deep learning models. Our results show that foundation models outperform deep learning models in traffic flow prediction under both normal conditions and disruptive events. Unlike deep learning models, which require large-scale historical data and extensive training time for each task, pre-trained foundation models can be directly applied to datasets with varying data sizes, traffic dynamics, and context lengths. We also find that foundation models with longer context lengths and larger model sizes achieve higher prediction accuracy but require increased inference times. Selecting an appropriate foundation model is also crucial—models trained on a comprehensive dataset are more likely to achieve superior zero-shot performance, making them a practical and efficient choice for real-world traffic prediction applications.
+publication: '*Scientific Reports* (2026). https://doi.org/10.1038/s41598-026-50464-8'
+doi: 10.1038/s41598-026-50464-8
 links:
 - name: URL
-  url: https://doi.org/10.1080/21681376.2026.2637381
+  url: https://doi.org/10.1038/s41598-026-50464-8
 ---
