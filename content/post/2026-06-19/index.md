@@ -7,7 +7,7 @@ image:
 summary: "Mingshu’s group attended the first International GeoAI Conference in Ghent, Belgium, where doctoral students Xinyi Yuan and Rui Deng delivered oral presentations on their latest research in urban growth modelling and geospatial AI."
 
 ---
-Dr Mingshu Wang and doctoral students Xinyi Yuan and Rui Deng recently attended the first [International GeoAI Conference](https://geoaiconference.org/) in Ghent, Belgium (2–6 June 2026). Both PhD students delivered 15-minute oral presentations on their recently published research.
+Dr Mingshu Wang and doctoral students Xinyi Yuan and Rui Deng recently attended the first [__International GeoAI Conference__](https://geoaiconference.org/) in Ghent, Belgium (2–6 June 2026). Both PhD students delivered 15-minute oral presentations on their recently published research.
  
 Xinyi Yuan presented her work, entitled 'Where England's cities are growing: Evidence from big building footprint data and explainable AI’ (DOIs: [https://doi.org/10.1177/23998083251317573](https://doi.org/10.1177/23998083251317573) and [https://doi.org/10.1016/j.habitatint.2025.103457](https://doi.org/10.1016/j.habitatint.2025.103457)). Her research utilises massive building footprint datasets and Explainable AI (XGBoost and SHAP) to model urban structural changes across England from 2017 to 2023. The study highlights the impacts of population density, the Index of Multiple Deprivation (IMD), and regional demographics on urban development, synthesising findings from her recent paper in Habitat International and Environment and Planning B. 
  
