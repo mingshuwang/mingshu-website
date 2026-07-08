@@ -38,7 +38,7 @@ publishDate: '2026-06-29T00:00:00Z'
 publication_types:
 - "article-journal"
 abstract: Large-scale pretrained foundation models have transformed the machine learning paradigm. However, their applicability to Geospatial Tabular Data (GTD), particularly for regression tasks, remains poorly understood. This study systematically investigated TabPFN, a recent tabular foundation model, across synthetic data-generating processes and real-world geospatial regression tasks. We showed that while TabPFN generally outperforms state-of-the-art baselines, its performance degrades on large datasets and under strong, localised spatial dependence. To address these limitations, we proposed Geospatial Sparse Attention (GSA), a spatially informed inference strategy that injects geospatial inductive bias into the off-the-shelf TabPFN framework. The resulting model, TabPFN-GSA, prunes redundant attention calculations to better balance local and global spatial effects while improving scalability to large datasets. Empirical results showed that TabPFN-GSA delivers more accurate and robust predictions, particularly for large-scale GTD. Theoretically, this work advances our understanding of the strengths and limits of tabular foundation models in spatial contexts. Methodologically, it offers TabPFN-GSA, a principled, spatially explicit bridge between classical spatial modelling and modern foundation models.
-publication: '*International Journal of Geographical Information Science*. Taylor & Francis. https://doi.org/10.1080/13658816.2026.2691066'
+publication: '*International Journal of Geographical Information Science*, 1-38. https://doi.org/10.1080/13658816.2026.2691066'
 doi: 10.1080/13658816.2026.2691066
 links:
 - name: URL

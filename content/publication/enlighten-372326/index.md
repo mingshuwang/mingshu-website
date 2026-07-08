@@ -58,7 +58,7 @@ abstract: Uncovering the causal relationship between urban rail investments and
   highlighting concerns about their inequitable distribution. This study provides insights
   for urban planners and policymakers on capturing and reinvesting the benefits of infrastructure
   investments to fund future transport projects.
-publication: '*Transport Policy*. Elsevier. https://doi.org/10.1016/j.tranpol.2026.104277'
+publication:  '*Transport Policy*, 104277. https://doi.org/10.1016/j.tranpol.2026.104277'
 doi: 10.1016/j.tranpol.2026.104277
 links:
 - name: URL
