@@ -19,7 +19,7 @@ This research was supported by the NVIDIA Academic Grant Programme and Google Cl
  
 The breakthrough has recently been highlighted by a [University of Glasgow official press](https://www.gla.ac.uk/colleges/scienceengineering/news/headline_1280658_en.html) release and is receiving wider coverage across several scientific media outlets, including [FutureScot](https://futurescot.com/glasgow-data-scientists-devise-new-way-for-helping-ai-know-its-place/), [Spatial Source](https://www.spatialsource.com.au/geospatial-sparse-attention-helps-analyse-tabular-data/), and [myScience](https://www.myscience.uk/en/sciences/humanities/geography).
  
-The open-source code is available on [GitHub](https://github.com/ruid7181/Python), with supporting data hosted on figshare.
+The [open-source code](https://github.com/ruid7181/Python) is available on GitHub, with supporting data hosted on figshare.
 
 {{< figure src="featured1.jpg">}}
 {{< figure src="featured2.jpg">}}
