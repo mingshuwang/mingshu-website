@@ -10,11 +10,10 @@ authors:
 - Qunshan Zhao
 - Mingshu Wang
 tags:
-- Traffic flow prediction
-- foundation models
-- zero-shot prediction
-- deep learning
-- time-series prediction
+- Traffic flows
+- Time-series prediction
+- Deep learning
+- Foundation models
 categories: []
 date: '2026-05-04'
 lastmod: 2026-05-04T00:00:00+00:00

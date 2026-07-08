@@ -7,7 +7,7 @@ image:
 summary: "The study introduces TabPFN-GSA, a lightweight inference-time framework that enables TabPFN to better capture spatial dependence, improving predictive accuracy, robustness, and scalability for geospatial tabular data without retraining."
 
 ---
-Our group has published a new paper in the International Journal of Geographical Information Science (IJGIS) titled, [_"Do foundation models work for geospatial tabular data? An investigation of TabPFN and a proposed enhancement based on geospatial sparse attention"_](https://doi.org/10.1080/13658816.2026.2691066). The paper was first-authored by PhD researcher Rui Deng, in collaboration with Dr Mingshu Wang and Dr Ziqi Li (Florida State University).
+Our group has published a new paper in the International Journal of Geographical Information Science (IJGIS) titled, __"Do foundation models work for geospatial tabular data? An investigation of TabPFN and a proposed enhancement based on geospatial sparse attention"__. The paper was first-authored by PhD researcher Rui Deng, in collaboration with Dr Mingshu Wang and Dr Ziqi Li (Florida State University).
  
 The study investigates the zero-shot capabilities of the tabular foundation model, TabPFN, on spatial regression tasks. As a powerful, general-purpose model, TabPFN is designed to solve generic, domain-agnostic tabular tasks. Consequently, when applied directly to geospatial datasets, it lacks an explicit mechanism to account for spatial dependence. This limits its predictive performance in spatial contexts and also leads to memory/computational overheads on large datasets.
  
