@@ -49,7 +49,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Members
+  - Alumni
 ---
 
 Wanting Xu is a Post-doctoral Fellow in the Department of Real Estate and Construction at the University of Hong Kong. Her research interests include regional innovation and entrepreneurship. 
