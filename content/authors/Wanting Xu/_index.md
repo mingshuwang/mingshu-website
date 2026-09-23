@@ -53,4 +53,5 @@ user_groups:
 ---
 
 Wanting Xu is a Post-doctoral Fellow in the Department of Real Estate and Construction at the University of Hong Kong. Her research interests include regional innovation and entrepreneurship. 
+
 Currently, she is investigating how regional culture shapes entrepreneurial activities and innovation, and some of her peer-reviewed articles have been published in international journals.
