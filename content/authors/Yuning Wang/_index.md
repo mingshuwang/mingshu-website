@@ -24,10 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#  - Geographical Information Science
-#  - Urban Analytics
-#  - Spatial Optimization
+interests:
+  - Transport and Urban Development
+  - Urban and Regional Regeneration
+  - Territorial Spatial Planning
+  - Urban Resilience and Sustainability
 
 #education:
 #  courses:
