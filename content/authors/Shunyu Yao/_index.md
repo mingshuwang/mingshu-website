@@ -33,7 +33,7 @@ education:
     - course: PhD in Geospatial Data Science 
       institution: University of Glasgow
       year: 
-    - course: MPhil in Human Geography
+    - course: MRes in Human Geography
       institution: University of Glasgow
       year: 
     - course: BSc in Human Geography and Urban-Rural Planning
