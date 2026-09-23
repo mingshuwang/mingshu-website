@@ -64,4 +64,5 @@ user_groups:
 ---
 
 Shunyu YAO is doing research on Geospatial Artificial Intelligence (GeoAI), focusing on the bias of GeoAI applications in urban context. The current work of Shunyu focuses on GeoAI debiasing, e.g., identifying spatial bias of foundation models (FMs), quantifying FMs’ understanding of spatial heterogeneity, and more importantly, exploring how to mitigate these biases from a data perspective.
+
 Shunyu holds his bachelor degree of Human Geography and Urban-rural Planning in Sun Yat-sen University, and his master degree of Human Geography in University of Glasgow.

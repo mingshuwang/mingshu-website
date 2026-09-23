@@ -68,4 +68,5 @@ user_groups:
 ---
 
 Yuning Wang is a Professor at the Faculty of Geography, Tianjin Normal University. She received her BSc, MSc, and PhD in Urban Planning from Tianjin University and was a visiting scholar at the School of Architecture, Design and Planning, University of Sydney.
+
 Her research focuses on transport and urban development, urban and regional regeneration, territorial spatial planning, and urban resilience and sustainability. Her work examines how transport infrastructure shapes urban spatial structure, land development, and the vitality of areas surrounding transit hubs, as well as its role in urban and regional regeneration. She also explores how territorial spatial planning can enhance urban and regional resilience and support sustainable development. Drawing on multi-source data and spatial analytical methods, she has published over 40 academic papers in journals including Cities, Transportation, Transport Policy, and Transportmetrica A: Transport Science.
