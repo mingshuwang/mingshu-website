@@ -4,7 +4,7 @@ date: 2026-09-10
 summary: "Mingshu Wang delivered an invited presentation at BCS 2026 in Edinburgh, exploring how Geomatics education can respond to GeoAI while preserving spatial understanding, critical judgement and visual reasoning."
 
 ---
-On 9 September 2026, Dr Mingshu Wang delivered an invited talk at the [British Cartographic Society Annual Conference](https://www.cartography.org.uk/annual-conference), hosted at Registers of Scotland in Edinburgh. His presentation, --“Research-Led Geomatics Education in the Age of GeoAI,”-- formed part of the conference session on geospatial technologies and cartography in education.
+On 9 September 2026, Dr Mingshu Wang delivered an invited talk at the [British Cartographic Society Annual Conference](https://www.cartography.org.uk/annual-conference), hosted at Registers of Scotland in Edinburgh. His presentation, __“Research-Led Geomatics Education in the Age of GeoAI,”__ formed part of the conference session on geospatial technologies and cartography in education.
 
 Drawing on Glasgow’s long tradition of cartographic and Geomatics education, the talk considered how teaching should evolve as AI becomes part of geospatial workflows. It emphasised the continuing importance of spatial understanding, critical judgement and responsibility to map users. As technologies make map production more accessible, students increasingly need to question, compare and interpret visual outputs—and explain the choices behind them.
 
