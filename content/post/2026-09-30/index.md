@@ -2,7 +2,8 @@
 title: Mingshu Wang Elected Chair of the RGS-IBG GIScience Research Group
 date: 2026-09-30
 image:
-  preview_only: true   # 关键：封面图仅用于列表，不在正文顶部自动显示
+  focal_point: Center
+  preview_only: true 
 summary: "Mingshu Wang has been elected Chair of the RGS-IBG GIScience Research Group, contributing to the group’s support for GIScience research, education and professional exchange."
 
 ---

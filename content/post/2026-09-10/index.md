@@ -2,7 +2,6 @@
 title: Invited Talk on Research-Led Geomatics Education at the British Cartographic Society Annual Conference
 date: 2026-09-10
 image:
-  filename: featured2.jpg
   focal_point: Center
   preview_only: true   
 summary: "Mingshu Wang delivered an invited presentation at BCS 2026 in Edinburgh, exploring how Geomatics education can respond to GeoAI while preserving spatial understanding, critical judgement and visual reasoning."
