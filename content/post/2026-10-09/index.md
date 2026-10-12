@@ -1,6 +1,10 @@
 ---
 title: "Mingshu Wang Joins Stanford–Elsevier Career-Long Top 2% Scientists List"
 date: 2026-10-09
+image:
+  preview_only: true   # 关键：封面图仅用于列表，不在正文顶部自动显示
+  focal_point: top
+
 summary: "Mingshu Wang marks his first career-long inclusion and fifth consecutive annual inclusion in the Stanford–Elsevier lists, ranking in the top 0.53% for annual citation impact within Geological & Geomatics Engineering."
 ---
 
@@ -24,3 +28,6 @@ These rankings use the database’s composite citation indicator, or c-score, ex
 The latest results also mark my strongest annual standing in the series. Annual citations excluding self-citations increased from **276 in 2021 to 679 in 2025**, a rise of **146%**.
 
 My research brings together GeoAI, geospatial data science, and urban and regional research. I’m grateful to my students, collaborators and colleagues for their contributions to this work, and to the wider research community for engaging with it.
+
+{{< figure src="featured1.jpg">}}
+{{< figure src="featured2.jpg">}}
