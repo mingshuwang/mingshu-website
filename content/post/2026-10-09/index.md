@@ -29,5 +29,5 @@ The latest results also mark my strongest annual standing in the series. Annual 
 
 My research brings together GeoAI, geospatial data science, and urban and regional research. I’m grateful to my students, collaborators and colleagues for their contributions to this work, and to the wider research community for engaging with it.
 
+{{< figure src="featured.jpg">}}
 {{< figure src="featured1.jpg">}}
-{{< figure src="featured2.jpg">}}
