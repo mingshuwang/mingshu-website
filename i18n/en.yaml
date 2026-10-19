@@ -1,0 +1,7 @@
+# Standard scholarly publication labels; native HugoBlox filter and detail views.
+- id: pub_article_journal
+  translation: Journal articles
+- id: pub_paper_conference
+  translation: Conference papers
+- id: pub_chapter
+  translation: Book chapters

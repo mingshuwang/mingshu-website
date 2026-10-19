@@ -1,0 +1,41 @@
+// Teaching only; inherit the current theme's typography and native Markdown layout.
+.teaching-page {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  h1 { margin: 0 0 1.5rem; font-size: 2.5rem; line-height: 1.15; font-weight: 400; text-align: center; }
+  .teaching-section {
+    margin-top: 2.4rem;
+    padding-top: 1.6rem;
+    border-top: 1px solid rgba(21, 101, 192, 0.16);
+    > h2 { margin: 0 0 1.1rem; font-size: 1.5rem; line-height: 1.35; font-weight: 400; }
+    > h3 { margin: 1.5rem 0 0.8rem; font-size: 1.15rem; line-height: 1.4; }
+    > p, > ul { max-width: 58rem; }
+    p:last-child, ul:last-child { margin-bottom: 0; }
+  }
+  .teaching-section:first-of-type { margin-top: 0; padding-top: 0; border-top: 0; }
+  .teaching-courses {
+    ul { padding-left: 1.2rem; }
+    li { margin-bottom: 1rem; }
+    li:last-child { margin-bottom: 0; }
+    li > p { margin-bottom: 0; }
+  }
+  .teaching-training {
+    padding: 1.4rem;
+    border: 1px solid rgba(21, 101, 192, 0.16);
+    border-radius: 8px;
+    background: rgba(21, 101, 192, 0.035);
+  }
+  a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+  [id] { scroll-margin-top: 100px; }
+  @media (max-width: 767px) {
+    h1 { font-size: 2.2rem; }
+    .teaching-section { margin-top: 2rem; padding-top: 1.3rem; }
+    .teaching-section > h2 { font-size: 1.35rem; }
+    .teaching-section > h3 { font-size: 1.05rem; }
+    .teaching-training { padding: 1rem; }
+  }
+}
+.dark .teaching-page {
+  .teaching-section { border-color: rgba(160, 195, 230, 0.23); }
+  .teaching-training { background: rgba(160, 195, 230, 0.07); }
+}

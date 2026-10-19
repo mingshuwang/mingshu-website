@@ -1,0 +1,180 @@
+// About only. Use the current Minimal theme palette and inherited typography.
+.about-page {
+  --about-accent: #1565c0;
+  --about-surface: rgba(21, 101, 192, 0.035);
+  --about-muted-surface: #f5f7f9;
+  --about-line: rgba(21, 101, 192, 0.16);
+  --about-muted: #586777;
+  font-size: 0.95rem;
+  line-height: 1.7;
+
+  [id] { scroll-margin-top: 100px; }
+  .about-intro {
+    max-width: 58rem;
+    h1 { margin: 0 0 1.3rem; font-size: 2.5rem; line-height: 1.15; font-weight: 400; }
+    .about-biography { margin-top: 0; }
+    .about-biography > p { margin-bottom: 1rem; }
+    .about-biography > p:last-child { margin-bottom: 0; }
+    #profile { padding: 0 10px; font-size: 1rem; }
+  }
+  .about-icon {
+    display: inline-flex;
+    width: 2rem;
+    height: 2rem;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    border-radius: 7px;
+    background: var(--about-surface);
+    color: var(--about-accent);
+    font-size: 0.9rem;
+  }
+  .about-jumps {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 1.6rem 0 2rem;
+    padding: 1rem 0;
+    border-top: 1px solid var(--about-line);
+    border-bottom: 1px solid var(--about-line);
+    a {
+      display: inline-flex;
+      min-height: 44px;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.55rem 0.85rem;
+      border: 1px solid var(--about-line);
+      border-radius: 6px;
+      background: var(--about-surface);
+      color: var(--about-accent);
+      font-size: 0.8rem;
+      line-height: 1.45;
+      text-decoration: none;
+    }
+    a:hover { border-color: var(--about-accent); }
+    .about-icon { width: auto; height: auto; background: transparent; font-size: 0.8rem; }
+  }
+  a:focus-visible, .about-editorial:focus-visible {
+    outline: 2px solid var(--about-accent);
+    outline-offset: 4px;
+  }
+  .about-section { margin-top: 2.7rem; }
+  .about-section-title {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    margin-bottom: 1.3rem;
+    h2 { margin: 0; font-size: 1.5rem; line-height: 1.35; font-weight: 400; }
+  }
+  .about-biography {
+    > p { max-width: 58rem; font-size: 0.9rem; }
+    > p:last-child a {
+      display: inline-flex;
+      padding: 0.5rem 0.9rem;
+      border: 1px solid var(--about-line);
+      border-radius: 6px;
+      background: var(--about-surface);
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+  }
+  .about-appointments {
+    font-size: 0.9rem;
+    > h3 { margin: 1.6rem 0 1rem; font-size: 1.15rem; line-height: 1.4; }
+    > .about-section-title + h3 { margin-top: 0; }
+  }
+  .about-timeline {
+    padding-top: 0.2rem;
+    ul { margin: 0; padding: 0; list-style: none; }
+    li { position: relative; margin-left: 0.3rem; padding: 0 1rem 1.4rem 1.3rem; border-left: 2px solid var(--about-line); }
+    li::before { position: absolute; top: 0.45rem; left: -0.3rem; width: 0.5rem; height: 0.5rem; border-radius: 50%; background: var(--about-accent); content: ''; }
+    li:last-child { padding-bottom: 0.2rem; }
+    strong { color: var(--about-accent); }
+  }
+  .about-panel {
+    padding: 1.2rem;
+    border-radius: 8px;
+    background: var(--about-muted-surface);
+    font-size: 0.86rem;
+    h3 { margin: 0 0 0.9rem; font-size: 1.05rem; }
+    ul { margin-bottom: 0; padding-left: 1.1rem; }
+    li { margin-bottom: 0.8rem; }
+    li:last-child { margin-bottom: 0; }
+  }
+  .about-service-group {
+    margin-top: 1.8rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--about-line);
+    font-size: 0.9rem;
+    > h3 { margin: 0 0 1rem; font-size: 1.15rem; line-height: 1.4; }
+  }
+  .about-service-group:first-of-type { margin-top: 0; padding-top: 0; border-top: 0; }
+  .about-programmes ul { columns: 2; column-gap: 2rem; padding-left: 1.1rem; }
+  .about-programmes li { margin-bottom: 0.6rem; break-inside: avoid; }
+  .about-community {
+    padding: 1.1rem 1.25rem;
+    border: 1px solid var(--about-line);
+    border-radius: 8px;
+    background: var(--about-surface);
+    ul { margin-bottom: 0; padding-left: 1.1rem; }
+    li { margin-bottom: 0.7rem; }
+    li:last-child { margin-bottom: 0; }
+  }
+  .about-editorial {
+    border: 1px solid var(--about-line);
+    border-radius: 7px;
+    table { width: 100%; min-width: 38rem; margin: 0; border-collapse: collapse; font-size: 0.84rem; }
+    th, td { padding: 0.65rem 0.85rem; border-bottom: 1px solid var(--about-line); vertical-align: top; }
+    th { background: var(--about-muted-surface); font-weight: 600; }
+    th:first-child, td:first-child { width: 53%; }
+    th:last-child, td:last-child { white-space: nowrap; }
+    tbody tr:nth-child(even) { background: var(--about-surface); }
+    tbody tr:last-child td { border-bottom: 0; }
+  }
+  .about-service-columns > div { margin-bottom: 1rem; }
+  .about-service-panel {
+    height: 100%;
+    padding: 1.2rem;
+    border-radius: 8px;
+    background: var(--about-muted-surface);
+    font-size: 0.85rem;
+    h4 { margin: 0 0 0.9rem; font-size: 0.98rem; line-height: 1.4; }
+    ul { margin-bottom: 0; padding-left: 1.1rem; }
+    li { margin-bottom: 0.6rem; }
+    li:last-child { margin-bottom: 0; }
+  }
+  .about-recognition {
+    padding: 1.4rem;
+    border: 1px solid var(--about-line);
+    border-radius: 8px;
+    background: var(--about-surface);
+    font-size: 0.9rem;
+    ul { margin: 0; padding: 0; list-style: none; }
+    li { padding: 0.7rem 0; border-bottom: 1px solid var(--about-line); }
+    li:first-child { padding-top: 0; }
+    li:last-child { border-bottom: 0; }
+    li strong { color: var(--about-accent); }
+    p:last-child { margin: 1rem 0 0; }
+  }
+  @media (max-width: 991px) {
+    .about-panel { margin-top: 1.2rem; }
+    .about-profile-column { margin-bottom: 1.5rem; }
+  }
+  @media (max-width: 767px) {
+    .about-intro h1 { font-size: 2.2rem; }
+    .about-intro .avatar { width: 200px; height: 200px; }
+    .about-jumps { display: grid; grid-template-columns: 1fr; }
+    .about-jumps a { min-width: 0; padding: 0.6rem; font-size: 0.8rem; }
+    .about-section { margin-top: 2rem; }
+    .about-section-title h2 { font-size: 1.35rem; }
+    .about-panel, .about-community, .about-service-panel, .about-recognition { padding: 1rem; }
+    .about-programmes ul { columns: 1; }
+  }
+}
+.dark .about-page {
+  --about-accent: #bbdefb;
+  --about-surface: rgba(160, 195, 230, 0.07);
+  --about-muted-surface: #202832;
+  --about-line: rgba(160, 195, 230, 0.23);
+  --about-muted: #b4c0cd;
+}

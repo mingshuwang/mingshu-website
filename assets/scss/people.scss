@@ -1,0 +1,27 @@
+// Keep the native People grid; give its title, introduction and labels a clear scale.
+.people-team {
+  .people-widget > .section-heading {
+    margin-bottom: 1rem !important;
+    h1 { font-size: 2.5rem; line-height: 1.15; font-weight: 400; }
+  }
+  .people-widget > .section-heading + .col-md-12 {
+    max-width: 48rem;
+    margin: 0 auto 1.8rem;
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+  .people-widget > .col-md-12 > h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.25rem !important;
+    font-size: 1.4rem;
+    line-height: 1.35;
+    font-weight: 400;
+  }
+  .people-widget .portrait-title h2 { font-size: 1rem; line-height: 1.4; }
+  .people-widget .portrait-title h3 { font-size: 0.8rem; line-height: 1.5; }
+  @media (max-width: 767px) {
+    .people-widget > .section-heading h1 { font-size: 2.2rem; }
+    .people-widget > .section-heading + .col-md-12 { font-size: 0.9rem; margin-bottom: 1.2rem; }
+    .people-widget > .col-md-12 > h2 { font-size: 1.35rem; }
+  }
+}

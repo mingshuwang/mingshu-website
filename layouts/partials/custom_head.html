@@ -1,0 +1,13 @@
+{{/* Native theme extension: load the About stylesheet only on About pages. */}}
+{{ if .Params.about_styles }}
+  {{ $aboutStyle := resources.Get "scss/about.scss" | toCSS (dict "targetPath" "css/about.css") | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $aboutStyle.RelPermalink }}" integrity="{{ $aboutStyle.Data.Integrity }}" crossorigin="anonymous">
+{{ end }}
+{{ if .Params.people_styles }}
+  {{ $peopleStyle := resources.Get "scss/people.scss" | toCSS (dict "targetPath" "css/people.css") | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $peopleStyle.RelPermalink }}" integrity="{{ $peopleStyle.Data.Integrity }}" crossorigin="anonymous">
+{{ end }}
+{{ if .Params.teaching_styles }}
+  {{ $teachingStyle := resources.Get "scss/teaching.scss" | toCSS (dict "targetPath" "css/teaching.css") | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $teachingStyle.RelPermalink }}" integrity="{{ $teachingStyle.Data.Integrity }}" crossorigin="anonymous">
+{{ end }}
