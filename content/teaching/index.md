@@ -1,62 +1,108 @@
 ---
 title: Teaching
 date: 2022-10-24
-
 type: landing
+teaching_styles: true
 
 sections:
-
   - block: markdown
+    id: teaching-content
     content:
-      title: Current Courses
-      text: |-
-        ## At the University of Glasgow (2021- )
-
-        ### **Graduate-level Courses**
-        - **GEOG 5015:** Web and Mobile Mapping ([GEOG5015](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5015))
-        - **GEOG 5026:** Visualisation & Map Use ([GEOG5026](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5026))
-        - **GEOG 5013:** Geospatial Data Infrastructure and Land Administration ([GEOG5013](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5013))
-        - **GEOG 5019:** Principles of GIS ([GEOG5019](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019))
+      text: |
+        # Teaching {#teaching-title}
         
-        ### **Undergraduate-level Courses**
-        - **GEOG 4111:** Applied Spatial Analysis (GIS A) ([GEOG4111](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111))
+        <div class="teaching-section">
         
-        ---
-        ## At the University of Twente (2018-2021)
-
-        ### **Graduate-level Courses**
-        - Academic Skills
-        - Integrated Geospatial Workflow
-        - Big Geo-data Processing
-        - Methods and Techniques for Geo-information Management and Application
+        ## Teaching philosophy
         
-        ### **Undergraduate-level Courses**
-        - HTHT Minor in GIS
-
+        My teaching helps students move from using geospatial tools to understanding and explaining the choices behind an analysis or a map. I connect practical work in GIS and cartography with geographical questions, helping students develop technical skills alongside spatial reasoning and critical judgement.
+        
+        I see research-led teaching as giving students the opportunity to investigate real geographical questions and test alternative approaches. Learners should be able to compare results, explain why they chose a method and revise their work in response to evidence and feedback. This makes practical exercises a way to develop independent judgement as well as technical competence.
+        
+        I want students to be able to explain how data sources, analytical methods and visual design affect their conclusions. As AI becomes part of geospatial work, this includes judging when a method is appropriate, recognising its limitations and communicating results responsibly.
+        
+        </div>
+        
+        <div class="teaching-section teaching-courses">
+        
+        ## University of Glasgow
+        
+        I have taught at the [University of Glasgow](https://www.gla.ac.uk/) since 2021. The years below indicate my teaching contributions to each course.
+        
+        ### Selected postgraduate courses
+        
+        - **[Web and Mobile Mapping — GEOG5015](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5015)** — Course convenor, 2025. Designing and publishing maps for web and mobile environments, including location-based services and the social implications of web mapping.
+        
+        - **[Visualisation & Map Use — GEOG5026](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5026)** — Course convenor, 2025–2026. Cartographic design, geographical visualisation and map use, connecting practical map production with the needs and perceptions of map users.
+        
+        - **[Geospatial Data Infrastructures and Land Administration — GEOG5013](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5013)** — Course convenor, 2023–2026. Geospatial data infrastructures, land registration and geodatabase design, linking the organisation of spatial information with land administration.
+        
+        - **[Principles of GIS — GEOG5019](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)** — Course convenor, 2021–2023. Foundations of GIS, including spatial data models, geodatabases and analytical methods for geographical problem-solving.
+        
+        - **[Geospatial Fundamentals — GEOG5008](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5008)** — Instructor, 2026. Mathematical and computational foundations for acquiring, processing and managing geospatial data.
+        
+        - **[Applied GIS — GEOG5102](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5102)** — Fieldtrip coordinator, 2023. Applied learning through GIS projects and practical geographical investigation.
+        
+        ### Selected undergraduate courses
+        
+        - **[GIS A: Applied Spatial Analysis — GEOG4111](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111)** — Course convenor, 2023–2024. Applying GIS tools to geographical problems, with attention to spatial data representation, analysis and effective mapping.
+        
+        </div>
+        
+        <div class="teaching-section teaching-courses">
+        
+        ## University of Twente
+        
+        At the [University of Twente](https://www.utwente.nl/en/), I taught in the Faculty of Geo-Information Science and Earth Observation (ITC) between 2018 and 2021.
+        
+        ### Selected postgraduate courses
+        
+        - **Academic Skills** — Course convenor, 2018–2021.
+        
+        - **Integrated Geospatial Workflow** — Instructor, 2019–2021.
+        
+        - **Big Geo-data Processing** — Instructor, 2019.
+        
+        - **Methods and Techniques for Geo-information Management and Application** — Instructor, 2019.
+        
+        ### Selected undergraduate courses
+        
+        - **HTHT Minor in GIS** — Convenor, 2019–2020.
+        
+        </div>
+        
+        <div class="teaching-section">
+        
+        ## Learning resources and training
+        
+        ### Atlas Praxis
+        
+        [Atlas Praxis](https://atlas-praxis.mingshuwang.org/) is an interactive cartography learning resource. A teaching example uses Glasgow deprivation data to explore how choices about variables, classification and colour can change the interpretation of a map. The aim is to help learners compare visual outputs and explain the choices behind them.
+        
+        Atlas Praxis was a finalist in [CATCON 9, the Computer Assisted Teaching Contest](https://www.isprs2026toronto.com/catcon), at the XXV ISPRS Congress in Toronto in 2026.
+        
+        [Read about the teaching example](https://atlas-praxis.mingshuwang.org/)
+        
+        ### AI and machine learning for urban planning
+        
+        In June 2025, I co-delivered a workshop on AI and machine learning for urban planning and management at the Computational Urban Planning and Urban Management conference (CUPUM), with Ziqi Li and Cai Wu. The workshop connected geospatial research methods with applications in urban planning.
+        
+        [CUPUM 2025 conference](https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025)
+        
+        </div>
+        
+        <div class="teaching-section teaching-training">
+        
+        ## Bespoke training
+        
+        I am happy to discuss developing bespoke short courses and workshops for research teams, public-sector organisations and industry. Topics can include GIS and spatial analysis, cartography and geospatial visualisation, and GeoAI for urban and infrastructure research. Content and format can be adapted to participants' experience and objectives.
+        
+        Please [get in touch](mailto:mingshu.wang@glasgow.ac.uk) to discuss your audience, learning goals and preferred timing.
+        
+        </div>
     design:
       columns: '1'
-      background:
-        color: '#f8f9fa'
-
-
-
-  # - block: markdown
-  #   content:
-  #     title: Teaching Awards & Recognition
-  #     text: |-
-  #       ## Awards
-  #       - **Excellence in Teaching Award**, University of Glasgow (2023)
-  #       - **Student Choice Teaching Award**, School of Geographical & Earth Sciences (2022)
-  #       - **Innovation in Digital Learning Award**, University of Glasgow (2021)
-
-  #       ## Professional Development
-  #       - **Fellow of the Higher Education Academy** (FHEA)
-  #       - **Certified GIS Professional** (GISP)
-  #       - **Google Earth Engine Certified Trainer**
-
-  #       ## Teaching Philosophy Publications
-  #       - Wang, M. (2023). "Integrating Real-World Data in Geography Education." *Journal of Geography in Higher Education*, 47(2), 234-251.
-  #       - Wang, M. (2022). "Digital Pedagogy in Geospatial Education: Lessons from the Pandemic." *Transactions in GIS*, 26(4), 1567-1582.
-  #   design:
-  #     columns: '1'
+      css_class: teaching-page
+      spacing:
+        padding: ['48px', '0', '64px', '0']
 ---

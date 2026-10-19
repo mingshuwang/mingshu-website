@@ -6,6 +6,14 @@ sections:
     id: about                 # 给区块取个锚点，方便将来跳转
     content:
       username: Mingshu Wang  # 对应 authors 文件夹名称
+      text: |
+        I am a Reader in Geospatial Data Science at the University of Glasgow. My research connects GeoAI, geographical information science and urban analytics, developing spatially aware and explainable methods to understand cities and regions.
+
+        With my [students and collaborators](/people/), I investigate how urban form, infrastructure networks and digital platforms relate to mobility, accessibility, inequality, and economic and environmental outcomes. My work combines machine learning with spatial theory, spatial econometrics and network science, linking methodological development to substantive questions in urban and regional research.
+      interests:
+        - GeoAI
+        - Geographical Information Science
+        - Urban Analytics
 
 #  - block: hero
 #    content:
@@ -19,6 +27,19 @@ sections:
 #        
 #        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
+  - block: markdown
+    id: research-mission
+    content:
+      title: Research mission
+      text: |
+        Our mission is to advance GeoAI that connects predictive modelling with explanation grounded in spatial theory. We aim to build transparent, computationally efficient representations of urban and regional systems that help researchers and planners understand spatial inequalities and assess development choices.
+
+        [Explore our research →](/research/)
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+
   - block: collection
     content:
       title: Latest News
@@ -42,7 +63,11 @@ sections:
     content:
       title: Latest Publications
       text: ""
-      count: 5
+      count: 3
+      archive:
+        enable: true
+        text: All publications
+        link: /publication/
       filters:
         folders:
           - publication
@@ -52,9 +77,11 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: People behind the research
       subtitle:
       text: |
+        Meet the doctoral researchers, visiting scholars and collaborators contributing to our work in GeoAI and urban analytics.
+
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'

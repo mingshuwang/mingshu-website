@@ -5,39 +5,48 @@ title: Contact
 date: 2022-10-24
 
 type: landing
+address_format: en-ca
 
 sections:
   - block: markdown
     content:
-      title: Opportunities for Prospective PhD Students
+      title: Opportunities for prospective PhD students
       text: |-
-        I am always interested in hearing from prospective students who are eager to pursue a PhD under my supervision. Currently, I plan to take several new PhD students in the current academic year. Before reaching out, please ensure you have explored potential funding options or scholarships if needed. For further details, please visit [here](https://www.gla.ac.uk/postgraduate/research/geospatialdatascience/).
+        I welcome enquiries from prospective PhD researchers interested in geospatial methods and computing, urban form, infrastructure and everyday life. Projects may focus on methodological development, substantive urban questions or the connections between them.
 
-        To facilitate our discussion, please email me the following:
+        Before getting in touch, please explore my [research](/research/) to identify where your interests connect with my work. To help us discuss a potential project, please [email me](mailto:mingshu.wang@glasgow.ac.uk) with:
 
-        - Your CV
-        - Your academic transcripts
-        - A brief research proposal (2-3 pages) outlining your proposed doctoral project. The project should align with my previous or current research areas to ensure I can offer the appropriate support and mentorship throughout your studies.
+        - Your CV.
+        - Your academic transcripts.
+        - A brief research proposal of 2–3 pages, outlining your research question, why it matters and how you propose to investigate it.
+
+        Please also indicate your intended start date and any scholarship or funding route you hold or plan to pursue.
+
+        For information about the programme, entry requirements and funding opportunities, see the University's [Geospatial Data Science PhD](https://www.gla.ac.uk/postgraduate/research/geospatialdatascience/) and [scholarships and funding](https://www.gla.ac.uk/scholarships/) pages.
     design:
       columns: '1'
 
   - block: contact
     content:
-      title: Contact Information
-      subtitle: Get in touch with our research team
+      title: Contact information
       text: |-
-        We welcome collaborations, inquiries about our research, and discussions about potential opportunities.
+        I welcome enquiries about research collaboration, academic visits, invited talks and bespoke training. Please email me with a brief description of what you would like to discuss.
 
       # Contact details - edit or remove options as needed
       email: mingshu.wang@glasgow.ac.uk
       # phone: +44 (0)141 330 xxxx
       address:
-        street: School of Geographical & Earth Sciences
+        street: School of Geographical & Earth Sciences, University of Glasgow
         city: Glasgow
         region: Scotland
         postcode: 'G12 8QQ'
         country: United Kingdom
         country_code: UK
+      contact_links:
+        - icon: chalkboard-teacher
+          icon_pack: fas
+          name: For bespoke courses and workshops, see Teaching.
+          link: /teaching/
       coordinates:
         latitude: '55.871566'
         longitude: '-4.287377'

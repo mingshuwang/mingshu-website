@@ -44,8 +44,9 @@ header:
 # Site footer
 
 footer:
+  text: 'Website maintained with contributions from [Xinyan Xian](/author/xinyan-xian/).'
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Mingshu Wang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

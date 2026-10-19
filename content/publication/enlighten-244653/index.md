@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:15.795959Z'
 publication_types:
-- "paper-journal"
+- "article-journal"
 abstract: No abstract available.
 publication: '*EcoHealth*, 12(2), 206--207. https://doi.org/10.1007/s10393-014-1000-5'
 doi: 10.1007/s10393-014-1000-5

@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:27:01.664809Z'
 publication_types:
-- "paper-journal"
+- "article-journal"
 abstract: No abstract available.
 publication: '*Photogrammetric Engineering and Remote Sensing*, 84(11), 673. https://doi.org/10.14358/PERS.84.11.673'
 doi: 10.14358/PERS.84.11.673

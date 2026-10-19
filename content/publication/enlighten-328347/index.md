@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2025-07-09T15:26:31.638427Z'
 publication_types:
-- "paper-journal"
+- "article-journal"
 abstract: Master plans are pivotal in strategising urban development, dictating land
   use, building height, and development intensity. These plans influence the spatial
   arrangement of urban infrastructure and activities, shaping the morphological and
