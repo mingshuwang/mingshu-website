@@ -22,7 +22,16 @@ sections:
         I want students to be able to explain how data sources, analytical methods and visual design affect their conclusions. As AI becomes part of geospatial work, this includes judging when a method is appropriate, recognising its limitations and communicating results responsibly.
         
         </div>
-        
+    design:
+      columns: '1'
+      css_class: teaching-page
+      spacing:
+        padding: ['48px', '0', '40px', '0']
+
+  - block: markdown
+    id: teaching-courses
+    content:
+      text: |
         <div class="teaching-section teaching-courses">
         
         ## University of Glasgow
@@ -70,7 +79,16 @@ sections:
         - **HTHT Minor in GIS** — Convenor, 2019–2020.
         
         </div>
-        
+    design:
+      columns: '1'
+      css_class: teaching-page
+      spacing:
+        padding: ['48px', '0', '48px', '0']
+
+  - block: markdown
+    id: teaching-resources
+    content:
+      text: |
         <div class="teaching-section">
         
         ## Learning resources and training
