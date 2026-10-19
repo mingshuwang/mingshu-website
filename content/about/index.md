@@ -10,8 +10,6 @@ sections:
       text: |
         <div class="about-intro">
         
-        # About {#about-title}
-        
         <div class="row align-items-center">
         <div class="col-12 col-lg-4 about-profile-column">
         {{< about-profile author="Mingshu Wang" >}}
